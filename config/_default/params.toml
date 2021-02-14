@@ -96,7 +96,7 @@ address = {street = "Venusberg-Campus 1/Gebäude 63", city = "Bonn", postcode = 
 coordinates = {latitude = "50.698660731034664", longitude = "7.106767995543849"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+directions = "Direkt hinter der Hauptpforte links halten. An der nächsten Kreuzung rechts halten und an der T-Kreuzung vor der Frauenklinik halb rechts halten. Der Straße folgen. Das Institut für Virologie befindet sich auf der linken Seite, Gebaüde 63"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
