@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Das Task Force Team
 subtitle:
 
 content:
@@ -22,6 +22,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Task Force
 design:
   show_interests: false
   show_role: true
