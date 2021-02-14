@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:kata.kehl@ukbonn.de
+    link: mailto:katja.kehl@ukbonn.de
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
