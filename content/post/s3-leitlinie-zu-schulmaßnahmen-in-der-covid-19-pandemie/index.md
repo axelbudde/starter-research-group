@@ -11,7 +11,7 @@ summary: Seit heute ist eine Kurzversion der S3-Leitlinie öffentlich, die
   einen möglichst sicheren, geregelten und kontinuierlichen Schulbetrieb in
   Pandemiezeiten zu ermöglichen.
 draft: false
-featured: false
+featured: true
 projects:
   - CEO-Sys
 image:
