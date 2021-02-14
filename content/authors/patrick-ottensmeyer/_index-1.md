@@ -1,6 +1,7 @@
 ---
 title: Patrick Ottensmeyer
 role: Referentin und stellvertretende Task Force Managerin
+avatar_filename: avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
