@@ -24,11 +24,11 @@
   weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "Publikationen"
   url = "publication"
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Kontakt"
   url = "contact"
   weight = 60
