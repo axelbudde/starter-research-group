@@ -14,3 +14,5 @@ hero_media: welcome.jpg
 ---
 
 Wir. Schaffen. Strukturen.
+
+![](/home/welcome_files/NetzUniMed.jpg)
