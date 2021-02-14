@@ -1,6 +1,14 @@
 ---
 title: S3-Leitlinie zu Schulmaßnahmen in der COVID-19-Pandemie
 date: 2021-02-14T19:44:31.125Z
+summary: Seit heute ist eine Kurzversion der S3-Leitlinie öffentlich, die
+  Empfehlungen zu Maßnahmen zur Prävention und Kontrolle der
+  SARS-CoV-2-Übertragung in Schulen umfasst. Erarbeitet wurde sie gemeinsam von
+  wissenschaftlichen Fachgesellschaften, Lehrer-, Eltern- und Schülerverbänden
+  sowie maßgeblichen Entscheidungsträgern. Empfohlen werden anpassbare und
+  geeignete Maßnahmenpakete, um das Infektionsrisiko an Schulen zu mindern und
+  einen möglichst sicheren, geregelten und kontinuierlichen Schulbetrieb in
+  Pandemiezeiten zu ermöglichen.
 draft: false
 featured: false
 image:
