@@ -17,6 +17,6 @@ projects:
 image:
   filename: https://cdn0.scrvt.com/4d3e519fe5939342b95c7312343779ef/b605cbfeb6c81302/2047a12a8a30/v/86069383f408/girl-5662435_1920.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 https://www.lmu-klinikum.de/aktuelles/pressemitteilungen/s3-leitlinie-zu-schulmassnahmen-in-der-covid-19-pandemie/89ccb7c2c4b7ad04
