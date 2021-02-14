@@ -24,6 +24,7 @@ content:
   - Alumni
   - Task Force
   - CODEX
+  - CEO-Sys
 design:
   show_interests: false
   show_role: true
