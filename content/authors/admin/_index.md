@@ -1,5 +1,5 @@
 ---
-role: Professor of Artificial Intelligence
+role: Task Force Manager
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
