@@ -1,6 +1,6 @@
 ---
 title: S3-Leitlinie zu Schulmaßnahmen in der COVID-19-Pandemie
-subtitle: What?
+subtitle: ""
 date: 2021-02-14T19:44:31.125Z
 summary: Seit heute ist eine Kurzversion der S3-Leitlinie öffentlich, die
   Empfehlungen zu Maßnahmen zur Prävention und Kontrolle der
