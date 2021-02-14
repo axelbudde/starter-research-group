@@ -1,6 +1,6 @@
 ---
 title: PD Dr. Sven Zenker
-role: Leiter Arbeitssgruppe Angewandte Mathematische Physiologie (AMP AG)
+role: Leiter Arbeitsgruppe Angewandte Mathematische Physiologie (AMP AG)
 avatar_filename: avatar
 interests:
   - Die Arbeitsgruppe Angewandte Mathematische Physiologie (AMP AG) beschäftigt
