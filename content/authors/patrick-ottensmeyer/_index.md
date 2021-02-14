@@ -1,6 +1,6 @@
 ---
 title: Patrick Ottensmeyer
-role: Task Force Referent
+role: Referent
 avatar_filename: ""
 social: []
 superuser: true
