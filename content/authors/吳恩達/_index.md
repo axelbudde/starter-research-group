@@ -1,6 +1,6 @@
 ---
 title: Katja Kehl
-role: Referentin und stellvertretende Task Force Managerin
+role: Task Force Referentin und stellvertretende Task Force Managerin
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
