@@ -35,7 +35,7 @@ education:
       year: 2008
 superuser: true
 user_groups:
-  - Researchers
+  - Task Force
 highlight_name: false
 title: Axel Budde
 email: ""
