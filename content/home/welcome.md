@@ -6,7 +6,7 @@ widget: hero
 widget_id: num
 headless: true
 weight: 10
-title: Nationales Forschungsnetzwerk Universitätsmedizin (NUM)
+title: Task Force COVID-19 im NUM
 subtitle: ""
 design:
   columns: "1"
