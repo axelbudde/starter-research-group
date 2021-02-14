@@ -12,6 +12,11 @@
   name = "Aktuelles"
   url = "post"
   weight = 20
+  
+[[main]]
+  name = "Projekte"
+  url = "projects"
+  weight = 30
 
 [[main]]
   name = "Personen"
