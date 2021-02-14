@@ -89,7 +89,7 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Venusberg-Campus 1/Gebäude 63", city = "53127 Bonn", region = "CA", postcode = "94305", country = "Germany", country_code = "DE"}
+address = {street = "Venusberg-Campus 1/Gebäude 63", city = "Bonn", postcode = "53127", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
