@@ -17,7 +17,7 @@ projects:
 image:
   filename: https://cdn0.scrvt.com/4d3e519fe5939342b95c7312343779ef/b605cbfeb6c81302/2047a12a8a30/v/86069383f408/girl-5662435_1920.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 Die COVID-19-Pandemie stellt für Schulen eine große Herausforderung dar. Trotz Unsicherheiten über die Wirkung von Maßnahmen müssen dort weitreichende Entscheidungen getroffen werden. Um in dieser Situation wissenschaftlich fundierte und konsentierte Handlungsempfehlungen anbieten zu können, wurde von der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V. (AWMF) eine Kurzversion der S3-Leitlinie zu "Maßnahmen zur Prävention und Kontrolle der SARS-CoV-2-Übertragung in Schulen" veröffentlicht.
 
