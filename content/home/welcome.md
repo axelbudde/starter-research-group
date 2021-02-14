@@ -6,7 +6,7 @@ widget: hero
 widget_id: num
 headless: true
 weight: 10
-title: Task Force
+title: Task Force COVID-19
 subtitle: ""
 design:
   columns: "1"
