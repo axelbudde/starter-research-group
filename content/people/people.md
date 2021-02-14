@@ -23,6 +23,7 @@ content:
   - Visitors
   - Alumni
   - Task Force
+  - CODEX
 design:
   show_interests: false
   show_role: true
