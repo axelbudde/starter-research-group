@@ -11,8 +11,10 @@ summary: Seit heute ist eine Kurzversion der S3-Leitlinie öffentlich, die
   Pandemiezeiten zu ermöglichen.
 draft: false
 featured: false
+projects:
+  - CEO-Sys
 image:
-  filename: featured
+  filename: https://boring-fermat-92e909.netlify.app/admin/featured
   focal_point: Smart
   preview_only: false
 ---
