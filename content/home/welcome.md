@@ -13,6 +13,8 @@ design:
   background:
     image: ""
 hero_media: welcome.jpg
+header:
+  image: "welcome.jpg"
 ---
 
 Wir. Schaffen. Strukturen.
