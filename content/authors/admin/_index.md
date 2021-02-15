@@ -35,7 +35,7 @@ education:
       year: 2008
 superuser: true
 user_groups:
-  - Task Force COVID-19 im NUM
+  - Task Force Team
 highlight_name: false
 title: Axel Budde
 email: ""
