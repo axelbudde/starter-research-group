@@ -11,12 +11,10 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: welcome.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 
 Wir. Schaffen. Strukturen.
 
 ![](/home/welcome_files/NetzUniMed.jpg)
-
-![](/home/welcome_files/BMBF_gefîrdert vom_deutsch.jpg)
