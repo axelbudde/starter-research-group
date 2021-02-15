@@ -10,6 +10,8 @@ title: Task Force COVID-19
 subtitle: ""
 design:
   columns: "1"
+  background:
+    image: netzunimed.jpg
 hero_media: welcome.jpg
 ---
 
