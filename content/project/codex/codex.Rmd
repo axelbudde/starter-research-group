@@ -1,12 +1,20 @@
 ---
-title: CODEX
-date: 2021-02-14T20:16:21.821Z
-draft: false
-featured: false
-external_link: https://www.netzwerk-universitaetsmedizin.de/projekte/codex
-output: hugodown::md_document
-
+title: "codex"
+author: "Axel Budde"
+date: "2/15/2021"
+output: html_document
 ---
+
+
+
+
+
+
+Note the use of the `height` parameter to determine how much vertical space the embedded application should occupy.
+
+You can also use the `shinyApp` function to define an application inline rather then in an external directory.
+
+In all of R code chunks above the `echo = FALSE` attribute is used. This is to prevent the R code within the chunk from rendering in the document alongside the Shiny components.
 
 ```{r pressure, include=TRUE, echo=FALSE, message=FALSE, warnings=FALSE, fig.height=10, fig.width=10}
 library(tidyverse)
@@ -33,3 +41,4 @@ p <- circlepackeR(population, size = "value", color_min = "hsl(56,80%,80%)", col
 # saveWidget(p, file=paste0( getwd(), "/HtmlWidget/circular_packing_circlepackeR2.html"))
 p
 ```
+
