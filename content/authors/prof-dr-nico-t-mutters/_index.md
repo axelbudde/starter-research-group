@@ -5,5 +5,5 @@ avatar_filename: avatar_hubf65e38d8f7e45013bdf26327174ca78_4003_0e07cd11fe5acf19
 social: []
 superuser: false
 user_groups:
-  - CEO-Sys
+  - CEO-sys
 ---

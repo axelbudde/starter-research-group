@@ -22,9 +22,10 @@ content:
   - Administration
   - Visitors
   - Alumni
-  - Task Force
+  - Task Force COVID-19 im NUM
   - CODEX
-  - CEO-Sys
+  - CEO-sys
+  
 design:
   show_interests: false
   show_role: true

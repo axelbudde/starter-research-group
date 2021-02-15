@@ -5,5 +5,5 @@ avatar_filename: ""
 social: []
 superuser: true
 user_groups:
-  - Task Force
+  - Task Force COVID-19 im NUM
 ---
