@@ -2,7 +2,7 @@
 title: "project"
 author: "Axel Budde"
 date: "2/4/2021"
-output: hugodown::md_document
+output: html_document
 ---
 
 
