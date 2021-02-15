@@ -15,31 +15,10 @@ authors:
 - Edward T. Ryan
 - Richelle C. Charles
 - Galit Alter
-tags:
-- '"Antibodies"'
-- '"Viral"'
-- '"antibody response"'
-- '"Betacoronavirus"'
-- '"Biomarkers"'
-- '"Clinical Laboratory Techniques"'
-- '"Coronavirus Infections"'
-- '"COVID-19"'
-- '"COVID-19 Testing"'
-- '"Cross Reactions"'
-- '"cross-reactivity"'
-- '"Fc-receptor binding"'
-- '"Humans"'
-- '"Immunity"'
-- '"Heterologous"'
-- '"Immunity"'
-- '"Humoral"'
-- '"Pandemics"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"SARS-CoV-2"'
+tags: []
 categories: []
-date: '2020-09-01'
-lastmod: 2021-02-15T17:02:50+01:00
+date: '2020-10-01'
+lastmod: 2021-02-15T19:07:54+01:00
 featured: false
 draft: false
 
@@ -57,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T16:02:49.903882Z'
+publishDate: '2021-02-15T18:07:54.651073Z'
 publication_types:
 - '2'
 abstract: The novel coronavirus, SARS-coronavirus (CoV)-2 (SARS-CoV-2), has caused
@@ -72,7 +51,7 @@ abstract: The novel coronavirus, SARS-coronavirus (CoV)-2 (SARS-CoV-2), has caus
   whether heterologous immunity to other CoV-RBDs or other infections influenced the
   evolution of the SARS-CoV-2 humoral immune response. Overall changes in subclass,
   isotype, and Fc-receptor binding were profiled broadly across a cohort of 43 individuals
-  against different coronaviruses-RBDs of SARS-CoV-2 and the more common HKU1 and
+  against different coronaviruses—RBDs of SARS-CoV-2 and the more common HKU1 and
   NL63 viruses. We found rapid functional evolution of responses to SARS-CoV-2 over
   time, along with broad but relatively more time-invariant responses to the more
   common CoVs. Moreover, there was little evidence of correlation between SARS-CoV-2
@@ -80,7 +59,7 @@ abstract: The novel coronavirus, SARS-coronavirus (CoV)-2 (SARS-CoV-2), has caus
   virus) responses. These findings suggest that common viral infections including
   common CoV immunity, targeting the receptor binding domain involved in viral infection,
   do not appear to influence the rapid functional evolution of SARS-CoV-2 immunity,
-  and thus should not impact diagnostics or shape vaccine-induced immunity.IMPORTANCE
+  and thus should not impact diagnostics or shape vaccine-induced immunity. IMPORTANCE
   A critical step to ending the spread of the novel severe acute respiratory syndrome
   coronavirus 2 (SARS-CoV-2) is the ability to detect, diagnose, and understand why
   some individuals develop mild and others develop severe disease. For example, defining
@@ -96,5 +75,6 @@ abstract: The novel coronavirus, SARS-coronavirus (CoV)-2 (SARS-CoV-2), has caus
   SARS-CoV-2 and should have negligible influence on shaping diagnostic or vaccine-induced
   immunity.
 publication: '*mSphere*'
+url_pdf: https://msphere.asm.org/content/5/5/e00622-20
 doi: 10.1128/mSphere.00622-20
 ---

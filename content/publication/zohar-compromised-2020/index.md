@@ -24,10 +24,16 @@ authors:
 - Richelle C. Charles
 - Douglas A. Lauffenburger
 - Galit Alter
-tags: []
+tags:
+- '"antibodies"'
+- '"COVID-19"'
+- '"dynamics"'
+- '"Fc receptors"'
+- '"innate immunity"'
+- '"SARS-CoV-2"'
 categories: []
 date: '2020-12-01'
-lastmod: 2021-02-15T16:10:29+01:00
+lastmod: 2021-02-15T19:07:54+01:00
 featured: false
 draft: false
 
@@ -45,13 +51,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T15:10:29.021219Z'
+publishDate: '2021-02-15T18:07:54.521075Z'
 publication_types:
 - '2'
-abstract: textlessh2textgreaterSummarytextless/h2textgreatertextlessptextgreaterThe
-  urgent need for an effective SARS-CoV-2 vaccine has forced development to progress
-  in the absence of well-defined correlates of immunity. While neutralization has
-  been linked to protection against other pathogens, whether neutralization alone
+abstract: The urgent need for an effective SARS-CoV-2 vaccine has forced development
+  to progress in the absence of well-defined correlates of immunity. While neutralization
+  has been linked to protection against other pathogens, whether neutralization alone
   will be sufficient to drive protection against SARS-CoV-2 in the broader population
   remains unclear. Therefore, to fully define protective humoral immunity, we dissected
   the early evolution of the humoral response in 193 hospitalized individuals ranging
@@ -62,8 +67,8 @@ abstract: textlessh2textgreaterSummarytextless/h2textgreatertextlessptextgreater
   In contrast, individuals with moderate disease exhibited delayed responses that
   ultimately matured. These data highlight distinct humoral trajectories associated
   with resolution of SARS-CoV-2 infection and the need for early functional humoral
-  immunity.textless/ptextgreater
+  immunity.
 publication: '*Cell*'
-url_pdf: https://www.cell.com/cell/abstract/S0092-8674(20)31459-8
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0092867420314598
 doi: 10.1016/j.cell.2020.10.052
 ---

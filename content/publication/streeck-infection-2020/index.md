@@ -27,31 +27,10 @@ authors:
 - Ricarda Maria Schmithausen
 - Matthias Schmid
 - Gunther Hartmann
-tags:
-- '"Adolescent"'
-- '"Adult"'
-- '"Aged"'
-- '"Aged"'
-- '"80 and over"'
-- '"Child"'
-- '"Comorbidity"'
-- '"COVID-19"'
-- '"COVID-19 Testing"'
-- '"Family Characteristics"'
-- '"Female"'
-- '"Germany"'
-- '"Humans"'
-- '"Immunoglobulin G"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Mortality"'
-- '"Polymerase Chain Reaction"'
-- '"Prevalence"'
-- '"SARS-CoV-2"'
-- '"Young Adult"'
+tags: []
 categories: []
 date: '2020-11-01'
-lastmod: 2021-02-15T17:02:50+01:00
+lastmod: 2021-02-15T19:07:55+01:00
 featured: false
 draft: false
 
@@ -69,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T16:02:50.047636Z'
+publishDate: '2021-02-15T18:07:55.066527Z'
 publication_types:
 - '2'
 abstract: A SARS-CoV2 super-spreading event occurred during carnival in a small town
@@ -88,7 +67,11 @@ abstract: A SARS-CoV2 super-spreading event occurred during carnival in a small 
   for Germany, the IFR is useful to estimate the consequences of the pandemic in places
   with similar healthcare systems and population characteristics. Whether the super-spreading
   event not only increases the infection rate but also affects the IFR requires further
-  investigation.
+  investigation., Here the authors present a SARS-CoV2 seroepidemiological observational
+  study from a random, household-based study population in a small town in Germany,
+  showing the effect of a super-spreading event on infection rate, severity, and potentially
+  infection fatality rate.
 publication: '*Nat Commun*'
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7672059/
 doi: 10.1038/s41467-020-19509-y
 ---

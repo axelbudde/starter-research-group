@@ -14,14 +14,10 @@ authors:
 - Enrico Richter
 - Anna-Maria Eis-Hübinger
 - Hendrik Streeck
-tags:
-- '"Coronavirus"'
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Symptoms"'
+tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-02-15T17:02:50+01:00
+date: '2020-05-01'
+lastmod: 2021-02-15T19:07:55+01:00
 featured: false
 draft: false
 
@@ -39,10 +35,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T16:02:50.581608Z'
+publishDate: '2021-02-15T18:07:55.597111Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Pathog Immun*'
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7307443/
 doi: 10.20411/pai.v5i1.374
 ---
