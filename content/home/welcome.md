@@ -11,7 +11,7 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: netzunimed.jpg
+    image: welcome.jpg
 hero_media: welcome.jpg
 ---
 
