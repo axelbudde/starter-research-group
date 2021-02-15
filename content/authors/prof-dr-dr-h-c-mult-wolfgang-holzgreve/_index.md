@@ -4,4 +4,6 @@ role: Ärztlicher Direktor und Vorstandsvorsitzender
 avatar_filename: holzgreve_182x132.jpg
 social: []
 superuser: false
+user_groups:
+  - Task Force Leitung
 ---
