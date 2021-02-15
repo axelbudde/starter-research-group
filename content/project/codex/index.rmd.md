@@ -1,0 +1,37 @@
+---
+title: CODEX
+date: 2021-02-14T20:16:21.821Z
+draft: false
+featured: false
+external_link: https://www.netzwerk-universitaetsmedizin.de/projekte/codex
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+---
+
+```{r pressure, include=TRUE, echo=FALSE, message=FALSE, warnings=FALSE, fig.height=10, fig.width=10}
+library(tidyverse)
+# Circlepacker package
+library(circlepackeR)         
+# devtools::install_github("jeromefroe/circlepackeR") # If needed
+
+# create a nested data frame giving the info of a nested dataset:
+data <- read_csv("~/Desktop/networks/codex.csv")
+
+# Change the format. This use the data.tree library. This library needs a column that looks like root/group/subgroup/..., so I build it
+library(data.tree)
+data$pathString <- paste("world", data$partner, data$ap, sep = "/")
+population <- as.Node(data)
+
+# Make the plot
+#circlepackeR(population, size = "value")
+
+# You can custom the minimum and maximum value of the color range.
+p <- circlepackeR(population, size = "value", color_min = "hsl(56,80%,80%)", color_max = "hsl(341,30%,40%)")
+
+# save the widget
+# library(htmlwidgets)
+# saveWidget(p, file=paste0( getwd(), "/HtmlWidget/circular_packing_circlepackeR2.html"))
+p
+```
