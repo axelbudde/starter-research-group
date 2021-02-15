@@ -12,9 +12,7 @@ design:
   columns: "1"
   background:
     image: ""
-hero_media: NetzUniMed.jpg
+hero_media: welcome.jpg
 ---
 
 Wir. Schaffen. Strukturen.
-
-![](/home/welcome_files/NetzUniMed.jpg)
