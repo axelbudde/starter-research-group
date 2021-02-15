@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Personen"
+  name = "Task Force"
   url = "people"
   weight = 30
 
