@@ -8,7 +8,7 @@ event_url: https://uni-bonn.zoom.us/j/94905773313?pwd=UXVDNTFmMnlwOUVTK2tUUCt6Rl
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Events
+title: Aktuelle & bevorstehende Termine
 location: Zoom
 date: 2021-02-17T07:30:03.105Z
 publishDate: 2021-02-14T17:07:03.130Z
