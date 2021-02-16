@@ -13,8 +13,7 @@ design:
   background:
     image: ""
 hero_media: NetzUniMed.jpg
-output: html_document
-html_dependencies:
+
 ---
 
 Wir. Schaffen. Strukturen.

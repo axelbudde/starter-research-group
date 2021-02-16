@@ -2,14 +2,6 @@
 title: "intranet"
 author: "Axel Budde"
 date: "2/4/2021"
-output: hugodown::md_document
-rmd_hash: 9aae4c50ee38a957
-html_dependencies:
-- <script src="htmlwidgets-1.5.2/htmlwidgets.js"></script>
-- <script src="d3-3.5.6/./d3.min.js"></script>
-- <link href="circlepackeR-0.1/./style.css" rel="stylesheet" />
-- <script src="circlepackeR-binding-0.0.0.9000/circlepackeR.js"></script>
-
 ---
 
 Note the use of the `height` parameter to determine how much vertical space the embedded application should occupy.
