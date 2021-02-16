@@ -13,7 +13,7 @@ design:
   background:
     image: ""
 hero_media: NetzUniMed.jpg
-output: hugodown::md_document
+output: html_document
 rmd_hash: 506d3c4d8efc8803
 html_dependencies:
 - <script src="htmlwidgets-1.5.2/htmlwidgets.js"></script>
