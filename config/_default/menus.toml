@@ -9,33 +9,43 @@
 #  weight = 10
 
 [[main]]
-  name = "NUM"
-  url = "num"
-  weight = 20
-
-[[main]]
   name = "Presseschau"
   url = "post"
   weight = 20
   
 [[main]]
+  name = "NUM"
+  url = "num"
+  weight = 30
+  
+[[main]]
+  name = "Projekte"
+  url = "project"
+  weight = 40
+  
+[[main]]
+  name = "Rundschreiben"
+  url = "project"
+  weight = 50
+  
+[[main]]
   name = "Task Force"
   url = "people"
-  weight = 30
+  weight = 60
 
 [[main]]
   name = "Termine"
   url = "event"
-  weight = 40
+  weight = 70
 
 [[main]]
   name = "Publikationen"
   url = "publication"
-  weight = 50
+  weight = 80
 
 [[main]]
   name = "Kontakt"
   url = "contact"
-  weight = 60
+  weight = 90
   
 
