@@ -1,8 +1,8 @@
 ---
-title: "intranet"
+title: "Projekte"
 author: "Axel Budde"
 date: "2/4/2021"
-output: html_document
+output: hugodown::md_document
 ---
 
 
