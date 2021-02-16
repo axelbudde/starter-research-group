@@ -9,6 +9,11 @@
 #  weight = 10
 
 [[main]]
+  name = "NUM"
+  url = "num"
+  weight = 20
+
+[[main]]
   name = "Presseschau"
   url = "post"
   weight = 20
