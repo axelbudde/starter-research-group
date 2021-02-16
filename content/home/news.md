@@ -3,7 +3,7 @@ widget: pages
 widget_id: news
 headless: true
 weight: 20
-title: Neuigkeiten
+title: Neuigkeiten aus dem NUM
 subtitle: null
 content:
   count: 5
