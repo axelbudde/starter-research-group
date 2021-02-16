@@ -1,5 +1,5 @@
 ---
-title: Aktuelles
+title: Presseschau
 
 # View.
 #   1 = List
