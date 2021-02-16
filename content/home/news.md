@@ -3,7 +3,7 @@ widget: pages
 widget_id: news
 headless: true
 weight: 20
-title: Aktuelles
+title: Presseschau
 subtitle: null
 content:
   count: 5
