@@ -10,11 +10,7 @@ title: Task Force COVID-19
 subtitle: ""
 design:
   columns: "1"
-  background:
-    image: ""
-hero_media: NetzUniMed.jpg
-
+hero_media: welcome.jpg
 ---
 
-Wir. Schaffen. Strukturen.
-
+The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
