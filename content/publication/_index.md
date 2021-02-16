@@ -8,5 +8,5 @@ header:
 ---
 
 {{% callout note %}}
-Finden Sie schnell relevante Inhalte, indem Sie Publikationen filtern.
+Finden Sie schnell relevante Inhalte, indem Sie Publikationen **filtern**.
 {{% /callout %}}
