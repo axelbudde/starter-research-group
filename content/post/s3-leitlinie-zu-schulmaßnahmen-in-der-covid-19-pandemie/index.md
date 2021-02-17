@@ -13,15 +13,12 @@ summary: Seit heute ist eine Kurzversion der S3-Leitlinie öffentlich, die
 draft: false
 featured: false
 projects:
-  - CEO-Sys
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+  - CEO-sys
 image:
-  caption: 'Image credit: [**unsplash**](https://unsplash.com/photos/u036-b1__JQ)'
+  caption: "Image credit: [**unsplash**](https://unsplash.com/photos/u036-b1__JQ)"
   focal_point: ""
   placement: 2
   preview_only: false
-
 ---
 Die COVID-19-Pandemie stellt für Schulen eine große Herausforderung dar. Trotz Unsicherheiten über die Wirkung von Maßnahmen müssen dort weitreichende Entscheidungen getroffen werden. Um in dieser Situation wissenschaftlich fundierte und konsentierte Handlungsempfehlungen anbieten zu können, wurde von der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V. (AWMF) eine Kurzversion der S3-Leitlinie zu "Maßnahmen zur Prävention und Kontrolle der SARS-CoV-2-Übertragung in Schulen" veröffentlicht.
 
