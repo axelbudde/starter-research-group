@@ -2,8 +2,10 @@
 title: Richard Hendricks Wins First Place in the Wowchemy Prize
 date: 2020-12-01
 header:
-  image: "header.png"
+  image: header.png
   caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
+image:
+  filename: header.jpg
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
