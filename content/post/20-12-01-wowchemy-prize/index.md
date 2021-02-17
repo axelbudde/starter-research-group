@@ -10,7 +10,7 @@ image:
     Teepe hält die Kinder und Jugendlich trotz Corona-Krise fit. Der Sportkurs
     des Therapieprogramms „DURCH DICK UND DÜNN“ des UKB findet digital im
     Wohnzimmer statt."
-  preview_only: true
+  preview_only: false
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
