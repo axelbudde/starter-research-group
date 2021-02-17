@@ -5,7 +5,7 @@ subtitle: Adipositas-Schulungsprogramm für Kinder und Jugendliche per digitalen
 date: 2021-02-17T13:17:16.805Z
 draft: false
 featured: false
-
+authors: []
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
