@@ -6,11 +6,11 @@ widget: hero
 widget_id: num
 headless: true
 weight: 10
-title: Task Force COVID-19
-subtitle: ""
+title: "Task Force COVID-19"
+subtitle: Netzwerk Universitätsmedizin
 design:
   columns: "1"
-hero_media: netzunimed.jpg
+hero_media: cdc-mf2rtg2V8S8-unsplash.jpg
 ---
 
 
@@ -18,6 +18,5 @@ hero_media: netzunimed.jpg
 
 
 
-![](/home/welcome_files/cdc-mf2rtg2V8S8-unsplash.jpg)
 
 
