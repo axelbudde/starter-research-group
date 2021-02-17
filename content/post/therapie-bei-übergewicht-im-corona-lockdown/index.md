@@ -5,12 +5,14 @@ subtitle: Adipositas-Schulungsprogramm für Kinder und Jugendliche per digitalen
 date: 2021-02-17T13:17:16.805Z
 draft: false
 featured: false
-header:
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  filename: adipositas-schulungsprogramm-digital.jpg
-  focal_point: Smart
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
   preview_only: false
-  caption: ""
 ---
 Zwei Mädchen bleiben am Ball: Mit Ausdauer nehmen sie an dem Adipositas-Schulungsprogramm „DURCH DICK UND DÜNN“ teil, das derzeit aufgrund der Corona-Bedingungen per digitalen Live-Unterricht stattfindet. In Kooperation mit dem Förderverein Psychomotorik Bonn e.V. und der Katholischen Familienbildungsstätte Bonn bietet das Universitätsklinikum Bonn das einjährige Therapieprogramm an. Franziska und Evelin sind auf einem guten Weg mit Unterstützung ihrer Eltern, das Kursziel eines langfristigen Gewichtsverlusts zu erreichen. Das digitale Training kommt bei den beiden Mädchen im Alter von 12 und 14 Jahren als Alternative gut an. Der nächste Kurs startet nach den Sommerferien. Eine Anmeldung ist ab sofort möglich.
 
