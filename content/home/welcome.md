@@ -10,7 +10,7 @@ title: Task Force COVID-19
 subtitle: ""
 design:
   columns: "1"
-hero_media: BMBF_logo.jpg
+hero_media: cdc-mf2rtg2V8S8-unsplash.jpg
 
 ---
 
