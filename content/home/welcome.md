@@ -16,4 +16,6 @@ hero_media: BMBF_logo.jpg
 
 Netzwerk Universitätsmedizin
 
+![](/home/welcome_files/netzunimed.jpg)
+
 
