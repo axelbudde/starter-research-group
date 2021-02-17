@@ -11,13 +11,13 @@ subtitle: ""
 design:
   columns: "1"
 hero_media: netzunimed.jpg
-
-
 ---
 
 
 
 
-![](cdc-mf2rtg2V8S8-unsplash.jpg)
+
+
+![](/home/welcome_files/cdc-mf2rtg2V8S8-unsplash.jpg)
 
 
