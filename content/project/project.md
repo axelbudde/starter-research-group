@@ -4,7 +4,7 @@
 title: "CODEX"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["pd-dr-zenker"]
 tags: []
 categories: []
 date: 2021-02-16T20:51:19+01:00
@@ -25,5 +25,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["codex"]
 ---
