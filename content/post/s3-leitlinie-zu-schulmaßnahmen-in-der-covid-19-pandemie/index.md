@@ -17,7 +17,7 @@ projects:
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Barbara Frommann / Uni Bonn**]'
+  caption: 'Image credit: [**unsplash**](https://unsplash.com/photos/u036-b1__JQ)'
   focal_point: ""
   placement: 2
   preview_only: false
