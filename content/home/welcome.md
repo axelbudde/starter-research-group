@@ -10,8 +10,10 @@ title: Task Force COVID-19
 subtitle: ""
 design:
   columns: "1"
-hero_media: jon-tyson-XzUMBNmQro0-unsplash.jpg
+hero_media: BMBF_gefîrdert vom_deutsch.jpg
 
 ---
 
 Netzwerk Universitätsmedizin
+
+
