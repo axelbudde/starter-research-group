@@ -10,7 +10,7 @@ title: Task Force COVID-19
 subtitle: ""
 design:
   columns: "1"
-hero_media: BMBF_gefîrdert vom_deutsch.jpg
+hero_media: BMBF_gefirdert vom_deutsch.jpg
 
 ---
 
