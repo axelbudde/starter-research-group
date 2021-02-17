@@ -19,18 +19,18 @@
   weight = 30
   
 [[main]]
-  name = "Projekte"
-  url = "project"
+  name = "Task Force"
+  url = "people"
   weight = 40
   
 [[main]]
-  name = "Rundschreiben"
+  name = "Projekte"
   url = "project"
   weight = 50
   
 [[main]]
-  name = "Task Force"
-  url = "people"
+  name = "Rundschreiben"
+  url = "project"
   weight = 60
 
 [[main]]
@@ -40,6 +40,11 @@
 
 [[main]]
   name = "Publikationen"
+  url = "publication"
+  weight = 80
+  
+[[main]]
+  name = "FAQs"
   url = "publication"
   weight = 80
 
