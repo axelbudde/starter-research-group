@@ -45,3 +45,5 @@ Universitätsklinikum Bonn\
 Tel.: 0228 287-33223 (Sekretariat: Elfie Schmidtke)
 
 E-Mail: [bettina.gohlke@ukbonn.de](mailto:bettina.gohlke@ukbonn.de)
+
+![Adipositas-Schulungsprogramm.](DDuD_digital_Kochkurs.jpg)
