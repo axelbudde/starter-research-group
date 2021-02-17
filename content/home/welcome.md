@@ -10,7 +10,7 @@ title: Task Force COVID-19
 subtitle: ""
 design:
   columns: "1"
-hero_media: cdc-w9KEokhajKw-unsplash.jpg
+hero_media: evgeni-tcherkasski-0pPyrly3H2U-unsplash.jpg
 
 ---
 
