@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: cdc-w9KEokhajKw-unsplash.jpg
+    image: cdc-mf2rtg2V8S8-unsplash.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
