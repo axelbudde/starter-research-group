@@ -46,4 +46,4 @@ Tel.: 0228 287-33223 (Sekretariat: Elfie Schmidtke)
 
 E-Mail: [bettina.gohlke@ukbonn.de](mailto:bettina.gohlke@ukbonn.de)
 
-![What?](images/maximilian-scheffler-u036-b1__JQ-unsplash.jpg)
+![](images/DDuD_digital_Kochkurs.jpg)
