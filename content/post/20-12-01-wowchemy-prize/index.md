@@ -6,6 +6,10 @@ header:
   caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 image:
   filename: header.jpg
+  caption: "Adipositas-Schulungsprogramm per digitalen Live-Unterricht: Johanna
+    Teepe hält die Kinder und Jugendlich trotz Corona-Krise fit. Der Sportkurs
+    des Therapieprogramms „DURCH DICK UND DÜNN“ des UKB findet digital im
+    Wohnzimmer statt."
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
