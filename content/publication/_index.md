@@ -2,9 +2,8 @@
 title: Publikationen
 view: 4
 
-header:
-  caption: ""
-  image: ""
+image: 
+  caption: "Bildnachweis: [Gabriel Sollmann auf **unsplash**](https://unsplash.com/photos/Y7d265_7i08)"
 ---
 
 {{% callout note %}}
