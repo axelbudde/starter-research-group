@@ -8,7 +8,7 @@ headless: true
 weight: 10
 title: Task Force COVID-19
 subtitle: Netzwerk
-active: true
+active: false
 design:
   columns: "1"
 hero_media: cdc-k0KRNtqcjfw-unsplash.jpg
