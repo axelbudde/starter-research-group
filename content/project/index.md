@@ -8,8 +8,7 @@ title: Projekte
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+image:
+  caption: "Bildnachweis: [Jukan Tateisi auf **unsplash**](https://unsplash.com/photos/bJhT_8nbUA0)"
 ---
 

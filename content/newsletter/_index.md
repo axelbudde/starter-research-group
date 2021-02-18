@@ -8,7 +8,6 @@ title: Rundschreiben
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+image:
+  caption: "Bildnachweis: [Mika Baumeister auf **unsplash**](https://unsplash.com/photos/ZsYPpaeldTM)"
 ---

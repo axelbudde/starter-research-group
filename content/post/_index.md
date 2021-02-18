@@ -8,7 +8,7 @@ title: Presseschau
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: "Bildnachweis: [**unsplash**](https://unsplash.com/photos/u036-b1__JQ)"
-  image: ""
+image:
+  caption: "Bildnachweis: [Bank Phrom auf **unsplash**](https://unsplash.com/photos/Tzm3Oyu_6sk)"
+
 ---
