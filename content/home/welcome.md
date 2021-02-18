@@ -7,7 +7,7 @@ widget_id: num
 headless: true
 weight: 10
 title: Task Force COVID-19
-subtitle: Netzwerk
+subtitle: ""
 active: true
 design:
   columns: "1"
