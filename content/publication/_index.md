@@ -7,8 +7,6 @@ header:
   image: ""
 ---
 
-
-
 {{% callout note %}}
 Finden Sie schnell relevante Inhalte, indem Sie Publikationen **filtern**.
 {{% /callout %}}
