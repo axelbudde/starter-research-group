@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Bildnachweis: [**unsplash**](https://unsplash.com/photos/u036-b1__JQ)"
   image: ""
 ---

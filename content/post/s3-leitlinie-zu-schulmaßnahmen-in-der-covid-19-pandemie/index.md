@@ -15,7 +15,7 @@ featured: false
 projects:
   - CEO-sys
 image:
-  caption: "Image credit: [**unsplash**](https://unsplash.com/photos/u036-b1__JQ)"
+  caption: "Bildnachweis: [**unsplash**](https://unsplash.com/photos/u036-b1__JQ)"
   focal_point: ""
   placement: 2
   preview_only: false

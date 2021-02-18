@@ -9,7 +9,7 @@ authors: []
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Barbara Frommann / Uni Bonn**](https://cams.ukb.uni-bonn.de/presse/public/pressemitteilungen/d1d241b6-378d-456c-b047-0b4c3ac14362/images/DDuD_digital_Sportkurs.jpg)'
+  caption: 'Bildnachweis: [**Barbara Frommann / Uni Bonn**](https://cams.ukb.uni-bonn.de/presse/public/pressemitteilungen/d1d241b6-378d-456c-b047-0b4c3ac14362/images/DDuD_digital_Sportkurs.jpg)'
   focal_point: ""
   placement: 2
   preview_only: false
