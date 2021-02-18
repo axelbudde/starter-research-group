@@ -12,4 +12,5 @@ active: true
 design:
   columns: "1"
 hero_media: cdc-k0KRNtqcjfw-unsplash.jpg
+  
 ---
