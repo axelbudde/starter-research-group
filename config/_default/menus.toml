@@ -30,7 +30,7 @@
   
 [[main]]
   name = "Rundschreiben"
-  url = "project"
+  url = "newsletter"
   weight = 60
 
 [[main]]
