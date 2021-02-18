@@ -45,7 +45,7 @@
   
 [[main]]
   name = "FAQs"
-  url = "publication"
+  url = "faqs"
   weight = 80
 
 [[main]]
