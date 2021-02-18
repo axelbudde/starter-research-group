@@ -46,11 +46,11 @@
 [[main]]
   name = "FAQs"
   url = "faqs"
-  weight = 80
+  weight = 90
 
 [[main]]
   name = "Kontakt"
   url = "contact"
-  weight = 90
+  weight = 100
   
 
