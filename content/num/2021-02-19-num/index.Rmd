@@ -1,5 +1,5 @@
 ---
-title: Test
+title: NUM
 author: Axel Budde
 date: '2021-02-19'
 slug: test
@@ -21,4 +21,8 @@ output: hugodown::md_document
 
 
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+```{r echo=FALSE}
+library(sigma)
+d = system.file("examples/ediaspora.gexf.xml", package = "sigma")
+sigma(d)
+```
