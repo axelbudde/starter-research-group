@@ -21,6 +21,8 @@ projects: []
 summary(Orange)
 ```
 
+
+
 ```{r echo=FALSE}
 library(ggplot2)
 oplot <- ggplot(Orange, aes(x = age, 
@@ -32,3 +34,6 @@ oplot <- ggplot(Orange, aes(x = age,
   theme_bw()
 oplot
 ```
+
+
+
