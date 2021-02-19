@@ -1,14 +1,14 @@
 ---
-title: Hi Hugo
+title: NUM
 author: Axel Budde
 date: '2021-02-19'
-slug: hi-hugo
+slug: num
 categories: []
 tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-02-19T16:30:23+01:00'
+lastmod: '2021-02-19T16:57:47+01:00'
 featured: no
 image:
   caption: ''
@@ -17,10 +17,4 @@ image:
 projects: []
 ---
 
-
-
-
-```{r}
-summary(Orange)
-```
 
