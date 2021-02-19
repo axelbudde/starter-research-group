@@ -10,14 +10,14 @@ if (file.exists("~/.Rprofile")) {
 # Now set options to customize the behavior of blogdown for this project. Below
 # are a few sample options; for more options, see
 # https://bookdown.org/yihui/blogdown/global-options.html
+
 options(
-  # to automatically serve the site on RStudio startup, set this option to TRUE
-  blogdown.serve_site.startup = TRUE,
-  # to disable knitting Rmd files on save, set this option to FALSE
-  blogdown.knit.on_save = TRUE,     
-  blogdown.author = "Axel Budde",  
-  blogdown.ext = ".Rmarkdown"
+  blogdown.author = "Axel Budde",
+  blogdown.ext = ".Rmd",
+  blogdown.subdir = "post",
+  blogdown.yaml.empty = TRUE,
+  blogdown.new_bundle = TRUE,
+  blogdown.title_case = TRUE
 )
 
-# fix Hugo version
-options(blogdown.hugo.version = "0.80.0")
+
