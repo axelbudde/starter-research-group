@@ -10,19 +10,12 @@ summary: ''
 authors: []
 lastmod: '2021-02-19T16:57:47+01:00'
 featured: no
-image:
+image: 
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
-output: hugodown::md_document
 ---
-
-```{r}
-summary(Orange)
-```
-
-
 
 ```{r echo=FALSE}
 library(ggplot2)
@@ -35,6 +28,10 @@ oplot <- ggplot(Orange, aes(x = age,
   theme_bw()
 oplot
 ```
+
+
+
+
 
 
 
