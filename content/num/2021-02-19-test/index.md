@@ -15,9 +15,14 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+output: hugodown::md_document
+rmd_hash: 2f940087a49dc11b
+
 ---
 
+<div class="highlight">
 
+<img src="figs/unnamed-chunk-1-1.png" width="700px" style="display: block; margin: auto;" />
 
+</div>
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
