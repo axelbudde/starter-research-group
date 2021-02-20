@@ -1,5 +1,5 @@
 ---
-title: Test
+title: NUM
 author: Axel Budde
 date: '2021-02-19'
 slug: test
@@ -16,9 +16,13 @@ image:
   preview_only: no
 projects: []
 output: hugodown::md_document
+rmd_hash: fb00e35ed5603007
+
 ---
 
+<div class="highlight">
 
+<img src="figs/unnamed-chunk-1-1.png" width="700px" style="display: block; margin: auto;" />
 
+</div>
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
