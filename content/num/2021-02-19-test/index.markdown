@@ -1,5 +1,5 @@
 ---
-title: NUM
+title: Test
 author: Axel Budde
 date: '2021-02-19'
 slug: test
@@ -21,7 +21,4 @@ output: hugodown::md_document
 
 
 
-```{r echo=FALSE}
-library(ggplot2)
-ggplot(diamonds, aes(x=carat, y=price, color=clarity)) + geom_point()
-```
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />

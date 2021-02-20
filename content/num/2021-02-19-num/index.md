@@ -16,12 +16,13 @@ image:
   preview_only: no
 projects: []
 output: hugodown::md_document
+rmd_hash: b939c879a5312b35
+
 ---
 
+<div class="highlight">
 
+<img src="figs/unnamed-chunk-1-1.png" width="700px" style="display: block; margin: auto;" />
 
+</div>
 
-```{r echo=FALSE}
-library(ggplot2)
-ggplot(diamonds, aes(x=carat, y=price, color=clarity)) + geom_point()
-```
