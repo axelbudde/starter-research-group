@@ -33,13 +33,13 @@ location: |-
 date: 2021-02-26T09:00:39.720Z
 date_end: 2021-02-26T15:00:00.000Z
 all_day: false
-event: Meeting
+event: Investigator Meeting
 event_url: https://uni-koeln.zoom.us/j/92910791152?pwd=QjdEcjN5NzdrNW9HTVpRUE5mMTlNZz09
 publishDate: 2021-02-22T17:12:39.751Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: index.svg
   focal_point: Smart
   preview_only: false
 ---
