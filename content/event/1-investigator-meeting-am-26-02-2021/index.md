@@ -41,5 +41,5 @@ featured: false
 image:
   filename: index.svg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
