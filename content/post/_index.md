@@ -1,5 +1,5 @@
 ---
-title: Presseschau
+title: Projekte
 
 # View.
 #   1 = List
