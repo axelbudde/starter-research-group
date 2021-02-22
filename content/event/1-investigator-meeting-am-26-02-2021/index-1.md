@@ -6,7 +6,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 slides: null
 url_pdf: ""
 summary: An example event.
-date_end: 2030-06-01T15:00:00Z
+date_end: 2030-06-01T15:00:00.000Z
 event_url: https://example.org
 authors: []
 url_video: ""
@@ -28,6 +28,7 @@ projects: null
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
+  preview_only: true
 url_code: ""
 all_day: false
 ---
