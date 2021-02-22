@@ -39,7 +39,7 @@ publishDate: 2021-02-22T17:12:39.751Z
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
