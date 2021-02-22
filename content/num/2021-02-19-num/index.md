@@ -1,8 +1,8 @@
 ---
-title: NUM
+title: Statistics
 author: Axel Budde
 date: '2021-02-19'
-slug: test
+slug: statistics
 categories: []
 tags: []
 subtitle: ''
@@ -16,7 +16,7 @@ image:
   preview_only: no
 projects: []
 output: hugodown::md_document
-rmd_hash: fb00e35ed5603007
+rmd_hash: 778c7a722db2ef9d
 
 ---
 

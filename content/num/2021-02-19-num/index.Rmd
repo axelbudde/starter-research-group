@@ -1,8 +1,8 @@
 ---
-title: NUM
+title: Statistics
 author: Axel Budde
 date: '2021-02-19'
-slug: test
+slug: statistics
 categories: []
 tags: []
 subtitle: ''
