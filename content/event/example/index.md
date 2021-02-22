@@ -1,7 +1,7 @@
 ---
 title: 1. Investigator Meeting am 26.02.2021
 
-event: Wowchemy Conference
+event: What?
 event_url: https://example.org
 
 location: Wowchemy HQ
