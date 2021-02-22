@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: 1. Investigator Meeting am 26.02.2021
 
 event: Wowchemy Conference
 event_url: https://example.org
