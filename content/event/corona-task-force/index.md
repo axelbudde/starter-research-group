@@ -11,7 +11,6 @@ publishDate: 2021-02-14T17:15:06.094Z
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 ---
