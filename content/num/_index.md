@@ -1,5 +1,5 @@
 ---
-title: Das NUM
+title: Das Netzwerk
 
 profile: false
 
@@ -15,7 +15,7 @@ header:
   caption: ""
 
 image:
-  caption: "Bildnachweis: [Bank Phrom auf **unsplash**](https://unsplash.com/photos/Tzm3Oyu_6sk)"
+  caption: "Bildnachweis: [Clint Adair auf **unsplash**](https://unsplash.com/photos/BW0vK-FA3eg)"
 
 ---
 
