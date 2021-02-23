@@ -1,5 +1,6 @@
 ---
 title: Rundschreiben 2 - 06.04.20 Abstimmung eines bundeseinheitlichen Datensatzes
+summary: Here?
 date: 2021-02-23
 type: book
 # Position of this page in the menu. Remove this option to sort alphabetically.
