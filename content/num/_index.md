@@ -1,5 +1,5 @@
 ---
-title: Das Nationale Forschungsnetzwerk der Universitätsmedizin zu COVID-19 (NUM)
+title: Das NUM
 
 profile: false
 
