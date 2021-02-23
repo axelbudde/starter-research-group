@@ -1,6 +1,8 @@
 ---
 title: Das Nationale Forschungsnetzwerk der Universitätsmedizin zu COVID-19 (NUM)
 
+profile: false
+
 # View.
 #   1 = List
 #   2 = Compact
