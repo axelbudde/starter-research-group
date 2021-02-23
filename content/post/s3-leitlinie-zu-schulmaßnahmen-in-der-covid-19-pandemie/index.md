@@ -10,6 +10,7 @@ summary: Seit heute ist eine Kurzversion der S3-Leitlinie öffentlich, die
   geeignete Maßnahmenpakete, um das Infektionsrisiko an Schulen zu mindern und
   einen möglichst sicheren, geregelten und kontinuierlichen Schulbetrieb in
   Pandemiezeiten zu ermöglichen.
+profile: false
 draft: false
 featured: false
 projects:
