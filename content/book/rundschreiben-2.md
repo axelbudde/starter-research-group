@@ -2,6 +2,8 @@
 title: Rundschreiben 2 - 06.04.20 Abstimmung eines bundeseinheitlichen Datensatzes
 date: 2021-02-23
 type: book
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 20
 ---
 
 Eine wesentliche, im COVID-19-Forschungsnetzwerk umzusetzende Maßnahme ist die Verständigung auf einen bundeseinheitlichen COVID-19-Datensatz bis Ende April. Dieser soll insbesondere eine genaue Phänotypisierung der Patient/innen aufgrund eines möglichst großen Datensatzes unterstützen und ist die Grundlage für eine bundesweite Datenzusammenführung. 

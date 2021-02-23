@@ -2,6 +2,8 @@
 title: Rundschreiben 1 - 06.04.20 Aktueller Stand Aufbau Netzwerk und weiteres Vorgehen
 date: 2021-02-23
 type: book
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 10
 ---
 
 
@@ -10,7 +12,8 @@ Ziel des Förderprogramms ist die Bündelung der Kräfte der Universitätsmedizi
 
 Mitglieder der Nationalen Task Force: 
 - Frau Prof. von Messling, BMBF (Vorsitz) 
-- Herr Ludewig, BMG - Herr Prof. Albrecht, Dresden 
+- Herr Ludewig, BMG
+- Herr Prof. Albrecht, Dresden 
 - Herr Prof. Autenrieth, Heidelberg 
 - Herr Prof. Kroemer, Charité 
 - Herr Prof. Schömig, Köln 
@@ -21,7 +24,7 @@ Die Kontaktdaten der Koordinierungsstelle lauten:
 
 E-Mail:   forschungsnetzwerk-unimedizin@charite.de
 
-Telefon:  (030) 450 570292 (Frau Bianca Peschke).
+Telefon:  (030) 450 570292 (Frau Bianca Peschke)
 
 {{% staticref "files/Rundschreiben Nr 01-2020 Nationales Forschungsnetzwerk der Unimedizin.pdf" %}}Rundschreiben 1 herunterladen{{% /staticref %}}
 
