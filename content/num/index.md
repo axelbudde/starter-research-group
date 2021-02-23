@@ -1,5 +1,5 @@
 ---
-title: "Das Nationale Forschungsnetzwerk der Universitätsmedizin zu CoViD-19"
+title: "Das Nationale Forschungsnetzwerk der Universitätsmedizin zu COVID-19"
 author: "Axel Budde"
 date: "2/4/2021"
 ---
