@@ -1,14 +1,7 @@
 ---
-title: "Aufgaben und Ziele"
-summary: Sie sind wichtig.
+title: NUM-Projekte am UKB
 date: 2021-02-14T19:44:31.125Z
-subtitle: "Was?"
-date: 2021-02-14T19:44:31.125Z
-profile: false
-draft: false
-featured: false
-projects:
-  - CEO-sys
+
 
 ---
 
@@ -16,40 +9,21 @@ projects:
 
 <!--more-->
 
-## Antwort auf ungeahnte Herausforderung
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
 
-Das Netzwerk hat zum Ziel, Maßnahmenpläne, Diagnostik- und Behandlungsstrategien möglichst aller deutschen Universitätskliniken zusammenzuführen und auszuwerten. Durch diese Bündelung der Kompetenzen und Ressourcen sollen Strukturen und Prozesse in den Kliniken geschaffen werden, die eine möglichst optimale Versorgung der COVID-19-Erkrankten sicherstellen. Die Universitätskliniken und die anderen Krankenhäuser werden dann schnell, qualitätsgesichert und schlagkräftig agieren können. 
+Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
 
-Das Programm ist auf schnelle und unmittelbare Unterstützungswirkungen ausgerichtet, um an Covid-19 erkrankte Patientinnen und Patienten optimal zu versorgen. Ein starker Akzent liegt auf der kliniknahen Forschung und Versorgungsforschung, deren Ergebnisse gemäß dem translationalen Ansatz direkt in das Versorgungsgeschehen bzw. Krisenmanagement einfließen bzw. es unterstützen sollen. Zudem sollen nach Möglichkeit nachhaltige Strukturen etabliert werden, die auch über das Projekt hinaus Wirksamkeit in der zukünftigen Zusammenarbeit entfalten.
+Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
 
-Das „Netzwerk Universitätsmedizin“ fördert hierzu den systematischen und flächendeckenden Austausch zwischen den Kooperationspartnern, um durch gemeinsame Entwicklungen in Forschung und Patientenversorgung, evidenzbasiertes Vorgehen sowie gegenseitiges Lernen ein gemeinsames Vorgehen bei der Pandemiebekämpfung zu erreichen. Der Aufbau dieser Struktur dient auch ganz wesentlich dem Ziel, künftigen Krisensituationen schneller, schlagkräftiger und besser vorbereitet begegnen zu können. All das kann in Gesundheitskrisen wie der aktuellen Coronavirus-Pandemie Leben retten.
- 
-## Hintergrund
+<script src="htmlwidgets-1.5.3/htmlwidgets.js"></script>
+<script src="d3-3.5.6/./d3.min.js"></script>
+<link href="circlepackeR-0.1/./style.css" rel="stylesheet" />
+<script src="circlepackeR-binding-0.0.0.9000/circlepackeR.js"></script>
 
-Um den Herausforderungen durch das neuartige Coronavirus SARS-CoV-2 zu begegnen, bedarf es einer bundesweiten Abstimmung nicht nur zur Eindämmung der Ausbreitung des Virus, sondern auch zur Gewährleistung einer bestmöglichen medizinischen Versorgung für Patientinnen und Patienten. Dabei hat ein schneller Erkenntnisgewinn sowie Austausch zu Verfahren und Best Practice hohe Priorität. Es soll sichergestellt werden, dass aus der aktuellen Krise möglichst viel Wissen generiert wird, um sich für die aktuelle Krise, aber auch für künftige Herausforderungen effektiv aufstellen zu können. Dabei geht es auch um die Frage, welche strukturellen Anpassungen im Versorgungssystem perspektivisch nötig sind.
+<div class="highlight">
 
-Erstmals sollen in einem Krisenfall bundesweit alle Maßnahmenpläne, Diagnostik- und Behandlungsstrategien der Universitätskliniken und weiterer Akteure des Gesundheitswesens systematisch zusammengeführt werden. Diese Initiative eröffnet die Chance, die Kräfte der Universitätsmedizin und weiterer Akteure der biomedizinischen Forschung in bisher nie dagewesener Weise zur Bekämpfung von Covid-19 zu bündeln.
+<div id="htmlwidget-30f2067a01a999c149fd" style="width:700px;height:593.28px;" class="circlepackeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-30f2067a01a999c149fd">{"x":{"data":{"name":"world","children":[{"name":"Task Force","group":"Task Force","value":295607,"world":"world"},{"name":"PallPan","group":"PallPan","value":64718,"world":"world"},{"name":"EviPan","group":"EviPan","value":374582,"world":"world"},{"name":"CODEX","group":"CODEX","value":456506,"world":"world"},{"name":"RACOON","group":"RACOON","value":202579,"world":"world"},{"name":"CEO-sys","group":"CEO-sys","value":40373,"world":"world"},{"name":"B-FAST","group":"B-FAST","value":786704,"world":"world"}]},"options":{"size":"value","color_min":"hsl(56,80%,80%)","color_max":"hsl(341,30%,40%)"}},"evals":[],"jsHooks":[]}</script>
 
-In einem für die Universitätsmedizin wegweisenden Ansatz sollen zwischen Forschung und Krankenversorgung Interaktionsstrukturen entwickelt werden, die eine effektivere Rückkopplung und Übersetzung von klinischen Fragen in neue Forschungsansätze gewährleisten. Zur Umsetzung bedarf es einer sehr leistungsfähigen Unterstützungsstruktur, die mit dem “Netzwerk Universitätsmedizin“ aufgebaut werden soll. Der Aufbau dieser Struktur dient auch ganz wesentlich dem Ziel, künftigen Krisensituationen schneller, schlagkräftiger und besser vorbereitet begegnen zu können.
- 
-## Ziele
-
-Der Förderzeitraum umfasst die für die Patientenversorgung kritische Zeitperiode, in der relevante Daten, Materialien und Erkenntnisse generiert werden, die möglichst vollständig, umfassend und zeitnah erfasst, zusammengeführt und ausgewertet werden müssen. Das „Netzwerk Universitätsmedizin“ wird durch den kontinuierlichen Austausch sowie das Lernen von- und miteinander zum einen gesicherte Erkenntnisse dazu liefern, wie die Bedingungen und Abläufe in den Krankenhäusern und die Versorgung in den Regionen optimiert werden können. Zum anderen werden die im Forschungsnetzwerk entwickelten Datensätze konkrete Erkenntnisse für die Verbesserung der Patientenbehandlung generieren.
-
-Darüber hinaus wird das „Netzwerk Universitätsmedizin“ dazu beitragen, Wissen über ein effektives Krisenmanagement zu gewinnen. Im Mittelpunkt steht die Frage nach angepassten Strukturen, Prozessen sowie Organisationsformen, aber auch Formen und Verfahren der Zusammenarbeit von Politik und Wissenschaft sowie Kennzeichen einer zielführenden Krisenkommunikation. Das „Netzwerk Universitätsmedizin“ orientiert sich bei seinen Aktivitäten an der Frage „Was trägt zur Verbesserung der aktuellen Situation bei?“ und folgt den Leitlinien
-
-„Infektionen verhindern“
-„Gesundheitsversorgung aufrechterhalten“
-„Optimal behandeln“
- 
-Folgende Ziele stehen dabei im Vordergrund: 
-
-- Forschung in hochkritischer Versorgungssituation handlungsfähig halten
-- Covid-19-Krise kliniknah wissenschaftlich begleiten 
-- Patientenversorgung und Krisenmanagement schnell und unmittelbar durch neue Erkenntnisse unterstützen
-- Generierung von Erkenntnissen auch zur besseren Vorbereitung auf zukünftige epidemiologische Ereignisse
-- Best Practice zur Personalgewinnung, -bindung und -einsetzbarkeit in Krisenzeiten entwickeln (Sicherung der Arbeitsfähigkeit)
-- Fokus auf schnelle und einheitliche Erfassung und Zusammenführung von Daten
-- Vorhandene und neue Erkenntnisse schnell und flächendeckend kommunizieren
-- Schnell, qualitätsgesichert und schlagkräftig agieren können 
+</div>
 
