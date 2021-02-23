@@ -1,5 +1,5 @@
 ---
-title: Rundschreiben 1 - 06.04.20 Aktueller Stand Aufbau Netzwerk und weiteres Vorgehen
+title: 1 - 06.04.20 Aktueller Stand Aufbau Netzwerk und weiteres Vorgehen
 summary: What?
 date: 2021-02-23
 type: book
