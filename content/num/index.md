@@ -1,5 +1,5 @@
 ---
-title: "NUM-Projekte am UKB"
+title: "Das Nationale Forschungsnetzwerk der Universitätsmedizin zu CoViD-19"
 author: "Axel Budde"
 date: "2/4/2021"
 ---
