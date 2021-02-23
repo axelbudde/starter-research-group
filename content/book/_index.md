@@ -1,5 +1,5 @@
 ---
-title: Rundschreiben
+title: Übersicht Rundschreiben
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: Übersicht
