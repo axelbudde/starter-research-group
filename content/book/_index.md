@@ -21,3 +21,5 @@ image:
 ---
 
 Hier finden Sie die Rundschreiben.
+
+![](featured.jpg)
