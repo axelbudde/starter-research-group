@@ -1,10 +1,12 @@
 ---
-title: "NUM-Projekte am UKB"
-author: "Axel Budde"
-date: "2/4/2021"
+title: NUM-Projekte am UKB
+subtitle: ""
+date: 2021-02-14T19:44:31.125Z
+
+
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+
 
 <!--more-->
 
