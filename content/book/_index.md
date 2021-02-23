@@ -5,7 +5,6 @@ title: Übersicht Rundschreiben
 linktitle: Übersicht
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
 
 # Date page published
 date: 2018-09-09
@@ -21,4 +20,4 @@ image:
   caption: "Bildnachweis: [Edwin Andrade auf **unsplash**](https://unsplash.com/photos/4V1dC_eoCwg)"
 ---
 
-Blah, blah, blah...
+Hier finden Sie die Rundschreiben.
