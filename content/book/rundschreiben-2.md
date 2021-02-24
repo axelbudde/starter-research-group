@@ -17,3 +17,7 @@ Bitte verständigen Sie sich ggf. in Ihrem Standort auf eine Person, die in das 
 
 {{% staticref "files/Rundschreiben_Nr._02-2020_Nationales_Forschungsnetzwerk_der_Unimedizin.pdf" %}}Rundschreiben 2 herunterladen{{% /staticref %}}
 
+{{% staticref "files/20200325_CSC_COVID-19_Trial_Protocol_Template_V01.docx" %}}Trial Protocol Template herunterladen{{% /staticref %}}
+
+
+

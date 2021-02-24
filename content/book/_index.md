@@ -14,12 +14,8 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 
-
-# Optional header image (relative to `static/media/` folder).
-image: 
-  caption: "Bildnachweis: [Mika Baumeister auf **unsplash**](https://unsplash.com/photos/ZsYPpaeldTM"
 ---
 
 Hier finden Sie die Rundschreiben der Koordinationsstelle des NUM.
 
-![Mika Baumeister](/book/_index_files/featured.jpg)
+![](featured.jpg)
