@@ -26,7 +26,7 @@ tags:
 - '"SARS-CoV-2"'
 categories: []
 date: '2020-05-01'
-lastmod: 2021-02-15T19:07:54+01:00
+lastmod: 2021-02-25T13:28:15+01:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T18:07:54.800153Z'
+publishDate: '2021-02-25T12:28:15.421930Z'
 publication_types:
 - '2'
 abstract: 'Objective With the current SARS-CoV2 outbreak, countless tests need to

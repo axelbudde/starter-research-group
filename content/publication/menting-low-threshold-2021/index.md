@@ -26,7 +26,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-02-15T19:07:55+01:00
+lastmod: 2021-02-25T13:28:15+01:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T18:07:55.465989Z'
+publishDate: '2021-02-25T12:28:15.551307Z'
 publication_types:
 - '2'
 abstract: • Incidence of SARS-CoV-2 infections are higher in employees of a hospital

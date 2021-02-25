@@ -21,14 +21,14 @@ authors:
 - Hartmut Hengel
 - Marcus Panning
 tags:
+- '"SARS-CoV-2"'
 - '"Laboratory"'
 - '"Minipools"'
 - '"RT-PCR"'
-- '"SARS-CoV-2"'
 - '"Surveillance"'
 categories: []
 date: '2020-06-01'
-lastmod: 2021-02-15T19:07:55+01:00
+lastmod: 2021-02-25T13:28:16+01:00
 featured: false
 draft: false
 
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T18:07:54.933306Z'
+publishDate: '2021-02-25T12:28:15.935727Z'
 publication_types:
 - '2'
 abstract: 'Background A novel coronavirus, severe acute respiratory syndrome coronavirus

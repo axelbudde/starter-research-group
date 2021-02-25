@@ -30,7 +30,7 @@ authors:
 tags: []
 categories: []
 date: '2020-11-01'
-lastmod: 2021-02-15T19:07:55+01:00
+lastmod: 2021-02-25T13:28:16+01:00
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T18:07:55.066527Z'
+publishDate: '2021-02-25T12:28:16.202772Z'
 publication_types:
 - '2'
 abstract: A SARS-CoV2 super-spreading event occurred during carnival in a small town

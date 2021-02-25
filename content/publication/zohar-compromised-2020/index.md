@@ -25,15 +25,15 @@ authors:
 - Douglas A. Lauffenburger
 - Galit Alter
 tags:
-- '"antibodies"'
 - '"COVID-19"'
+- '"SARS-CoV-2"'
+- '"antibodies"'
 - '"dynamics"'
 - '"Fc receptors"'
 - '"innate immunity"'
-- '"SARS-CoV-2"'
 categories: []
 date: '2020-12-01'
-lastmod: 2021-02-15T19:07:54+01:00
+lastmod: 2021-02-25T13:28:15+01:00
 featured: false
 draft: false
 
@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T18:07:54.521075Z'
+publishDate: '2021-02-25T12:28:15.806496Z'
 publication_types:
 - '2'
 abstract: The urgent need for an effective SARS-CoV-2 vaccine has forced development
