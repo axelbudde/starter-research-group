@@ -15,9 +15,23 @@ Bitte verständigen Sie sich ggf. in Ihrem Standort auf eine Person, die in das 
 
 
 
-{{% staticref "files/Rundschreiben_Nr._02-2020_Nationales_Forschungsnetzwerk_der_Unimedizin.pdf" %}}Rundschreiben 2 herunterladen{{% /staticref %}}
+{{% staticref "files/Rundschreiben_Nr._02-2020_Nationales_Forschungsnetzwerk_der_Unimedizin.pdf" %}}Rundschreiben 2{{% /staticref %}}
 
-{{% staticref "files/20200325_CSC_COVID-19_Trial_Protocol_Template_V01.docx" %}}Trial Protocol Template herunterladen{{% /staticref %}}
+{{% staticref "files/20200325_CSC_COVID-19_Trial_Protocol_Template_V01.docx" %}}Trial Protocol Template{{% /staticref %}}
+
+{{% staticref "files/20200330_Verfahren_fuer_Antragsteller_COVID-19_V1.0-LES.docx" %}}Verfahren für Antragsteller{{% /staticref %}}
+
+{{% staticref "files/Berliner_Datenmodel_FK.xlsx" %}}Berliner Datenmodell{{% /staticref %}}
+
+{{% staticref "files/Charite_COVID-19_Trial_Platform_1-4_MK_revAK_MK.pptx" %}}Charité COVID-19 Trial Platform{{% /staticref %}}
+
+{{% staticref "files/CTF-Infoschreiben-Klinische_Studien-V07_MK.docx" %}}CTF-Infoschreiben Klinische Studien{{% /staticref %}}
+
+{{% staticref "files/eCRF_synopsis_20200406_V2_FK.xlsx" %}}eCRF Synopsis{{% /staticref %}}
+
+{{% staticref "files/Pa-COVID-19_-_eCRF_-_Gesamansicht.pdf" %}}Pa-COVID-19-eCRF Gesamansicht.pdf{{% /staticref %}}
+
+
 
 
 
