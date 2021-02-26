@@ -29,7 +29,7 @@ Bitte verständigen Sie sich ggf. in Ihrem Standort auf eine Person, die in das 
 
 {{% staticref "files/eCRF_synopsis_20200406_V2_FK.xlsx" %}}eCRF Synopsis{{% /staticref %}}
 
-{{% staticref "files/Pa-COVID-19_-_eCRF_-_Gesamansicht.pdf" %}}Pa-COVID-19-eCRF Gesamansicht.pdf{{% /staticref %}}
+{{% staticref "files/Pa-COVID-19_-_eCRF_-_Gesamansicht.pdf" %}}Pa-COVID-19-eCRF Gesamtansicht.pdf{{% /staticref %}}
 
 
 
