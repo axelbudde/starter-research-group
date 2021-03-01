@@ -8,7 +8,7 @@ project: codex
 
 ---
 
-## COVID-19 Data Exchange Platform (ehemals FoDaPl)
+## COVID-19 Data Exchange Platform
 
 <!--more-->
 
