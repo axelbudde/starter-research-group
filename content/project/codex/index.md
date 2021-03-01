@@ -8,7 +8,7 @@ project: codex
 
 ---
 
-COVID-19 Data Exchange Platform (ehemals FoDaPl)
+## COVID-19 Data Exchange Platform (ehemals FoDaPl)
 
 <!--more-->
 
@@ -31,4 +31,4 @@ Aufbau einer bundesweit einheitlichen, datenschutzkonformen Infrastruktur zur Sp
 
 </div>
 
-
+[NUM-Seite zu CODEX](https://www.netzwerk-universitaetsmedizin.de/projekte/codex)
