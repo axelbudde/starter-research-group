@@ -3,9 +3,12 @@ title: "CODEX"
 author: "Axel Budde"
 date: 2021-02-23
 profile: false
+project: codex
 
 
 ---
+
+COVID-19 Data Exchange Platform (ehemals FoDaPl)
 
 <!--more-->
 
