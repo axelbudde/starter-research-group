@@ -14,4 +14,4 @@ des teilweise landesindividuellen komplexen Geflechts des Gesundheitssystems.
 
 [NUM-Seite zu EviPan Unimed](https://www.netzwerk-universitaetsmedizin.de/projekte/evipan)
 
-[Projektseite EviPan Unimed](https://evipan.de/)
+[EviPan Unimed Projektseite](https://evipan.de/)
