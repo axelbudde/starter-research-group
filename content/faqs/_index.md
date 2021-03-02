@@ -35,7 +35,7 @@ Seit Dezember 2020 gibt es ein standardisiertes Verfahren für die Umwidmung von
 
 #### Was ist der Unterschied zwischen nationaler Task Force, Koordinierungsstelle und lokaler Task Force?
 
-Die nationale Task Force ist ein Gremium aus Vertretern der Universitätsklinika sowie der Bundesregierung und für die Steuerung des Netzwerks eingesetzt. Die Koordinierungsstelle ist identisch mit der lokalen Task Force der Charité. Sie übernimmt als Erstzuwendungsempfänger auch die Koordination der Projekte und Projektanträge. Die lokalen Task Forces sind die Vertretung des NUM an den jeweiligen Standorten. Ihre Aufgabe ist es, die Informationen von der Koordinierungsstelle aufzuarbeiten und an die Projektleitungen am Standort zu verteilen. Darüber hinaus übernimmt Sie Aufgaben in der Vernetzung der Projekte am Standort, der Öffentlichkeitsarbeit und unterstützt die Projektleiter*innen in unterschiedlichsten Aufgabenbereichen (siehe nächste Frage)
+Die nationale Task Force ist ein Gremium aus Vertretern der Universitätsklinika sowie der Bundesregierung und für die Steuerung des Netzwerks eingesetzt. Die Koordinierungsstelle ist identisch mit der lokalen Task Force der Charité. Sie übernimmt als Erstzuwendungsempfänger auch die Koordination der Projekte und Projektanträge. Die lokalen Task Forces sind die Vertretung des NUM an den jeweiligen Standorten. Ihre Aufgabe ist es, die Informationen von der Koordinierungsstelle aufzuarbeiten und an die Projektleitungen am Standort zu verteilen. Darüber hinaus übernimmt Sie Aufgaben in der Vernetzung der Projekte am Standort, der Öffentlichkeitsarbeit und unterstützt die Projektleitungen in unterschiedlichsten Aufgabenbereichen (siehe nächste Frage)
 
 #### Wobei kann mich die lokale Task Force unterstützen?
 
