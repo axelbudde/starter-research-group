@@ -1,28 +1,22 @@
 ---
-title: 1. Investigator Meeting am 26.02.2021
+title: Can we test ourselves out of the Covid-19 pandemic?
 
-event: What?
+event: Can we test ourselves out of the Covid-19 pandemic? 
 event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Registration via Eventbrite for Zoom - event hosted by [Professor Irene Petersen (UCL Institute of Epidemiology & Health)](https://iris.ucl.ac.uk/iris/browse/profile?upi=IPETE57) and chaired by [Anushka Asthana (The Guardian)](https://www.theguardian.com/profile/anushkaasthana).
 
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A symposium to explore the opportunities and challenges of mass testing as an exit strategy for the COVID-19 pandemic.
+abstract: "Can we test ourselves out of the Covid-19 pandemic?"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-03-04T17:00:00Z"
+date_end: "2021-03-04T19:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+
 
 authors: []
 tags: []
@@ -53,12 +47,47 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+profile: false
 ---
 
-Slides can be added in a few ways:
+#### A symposium to explore the opportunities and challenges of mass testing as an exit strategy for the COVID-19 pandemic
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+**This event is free.**
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+### About this Event 
+
+On 11 March 2020 the World Health Organization (WHO) declared the outbreak of covid-19 pandemic. A year on, we are still in the midst of it and many people are questioning how and when we may be able to return to our normal lives. 
+
+As several countries in Europe are now easing restrictions we will explore how mass asymptomatic testing may become one of the most important tools to reduce transmission, help to open the societies and bring the pandemic under control.
+
+In 2020, independent research teams in the United Kingdom and US came up with the proposal to implement population testing of asymptomatic individuals as an exit strategy for the SARS-CoV-2 pandemic. Modelling studies have since demonstrated the feasibility of population testing in university and workplace settings. Testing programmes are currently being implemented in schools across the world. However, there are still many challenges in rolling-out large scale test programmes. Yet, mass testing could be a game changer in opening society. 
+
+Professor Irene Petersen and Anushka Asthana will be speaking to:
+
+- Associate Professor Michael Mina, Harvard University
+- Professor Tim Peto, Oxford University
+- Professor Iain Buchan, Liverpool University
+- Eric Kutscher, New York University School of Medicine
+- Ryan Wain – Advisor at Tony Blair Institute for Global Change
+
+### Programme
+
+#### Time          Session
+
+16:00 – 16:15	Introduction  –  Professor Irene Petersen, UCL & Anushka Asthana, The Guardian
+
+16:15 – 16:30	Mass testing as an exit strategy for the COVID-19 pandemic – Associate   Professor Michael Mina, Harvard University 
+
+16:30 – 16:45	A new tool in the toolbox – evaluation of lateral flow tests - Professor Tim Peto, University of Oxford
+
+16:45 – 17:00	Integrating lateral flow tests in civic COVID-19 responses – experiences from Liverpool – Professor Iain Buchan, Liverpool University
+
+17:00 – 17:15	Mitigating Risk among Asymptomatic Individuals Newly Diagnosed with Covid-19 -  Eric Kutscher, New York University School of Medicine
+
+17:15 - 17:30	The Role of Mass Testing In Reopening the Society - Ryan Wain – Advisor at Tony Blair Institute for Global Change
+
+17:30 – 17:55  	Debate led by Anushka Asthana
+
+17:55 – 18:00	Summary - Irene Petersen
+
+{{< cta cta_text="Anmelden" cta_link="https://www.eventbrite.com/e/can-we-test-ourselves-out-of-the-covid-19-pandemic-tickets-141594233163" cta_new_tab="false" >}}
