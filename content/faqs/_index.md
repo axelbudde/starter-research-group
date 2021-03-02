@@ -50,7 +50,7 @@ Interessierte an einem Projekt in der folgenden Förderphase können unterstütz
 
 #### Wie bekomme ich einen Zugang zum internen Bereich der NUM-Homepage?
 
-Der interne Bereich der NUM-Website ([www.netzwerk-universitaetsmedizin.de](https://www.netzwerk-universitaetsmedizin.de)) ist für Projektbeteiligte vorgesehen. Bitte wenden Sie sich mit der E-Mail-Adresse, die Sie für die Registrierung nutzen möchten an TaskForce.COVID-19@ukbonn.de. Wir generieren dann einen Registrierungslink unter dem Sie sich ein Passwort anlegen können.
+Der interne Bereich der NUM-Website ([NUM-Website](https://www.netzwerk-universitaetsmedizin.de)) ist für Projektbeteiligte vorgesehen. Bitte wenden Sie sich mit der E-Mail-Adresse, die Sie für die Registrierung nutzen möchten an TaskForce.COVID-19@ukbonn.de. Wir generieren dann einen Registrierungslink unter dem Sie sich ein Passwort anlegen können.
 
 #### Wo werde ich über Ergebnisse und Publikationen des NUM informiert?
 
@@ -62,9 +62,6 @@ Informationen finden Sie aber auch auf der [NUM-Website](https://www.netzwerk-un
 
 Voraussichtlich werden ausschließlich Universitätsklinika Förderanträge stellen können. Andere Institutionen (Firmen, außeruniversitäre Forschungseinrichtungen, Fachgesellschaften, etc.) können dabei Projektpartner sein, selbst aber keine Anträge stellen.
 
-#### Welche Perspektive hat das NUM über die Pandemie hinaus?
-
-Das Generieren von Erkenntnissen, auch zur besseren Vorbereitung auf zukünftige epidemiologische Ereignisse
 
 
 
