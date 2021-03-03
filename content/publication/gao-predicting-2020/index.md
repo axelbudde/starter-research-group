@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2021-03-03T21:16:41.695915Z'
 publication_types:
-- '2'
+- '3'
 abstract: textlessh3textgreaterAbstracttextless/h3textgreater textlessptextgreaterWe
   describe a physics-based learning model for predicting the immunogenicity of Cytotoxic
   T Lymphocyte (CTL) epitopes derived from diverse pathogens, given a Human Leukocyte
