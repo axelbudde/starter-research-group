@@ -144,9 +144,9 @@ authors:
 - John Ziebuhr
 - German COVID-19 Omics Initiative (DeCOI)
 tags:
+- '"COVID-19"'
 - '"Blood transcriptomics"'
 - '"Co-expression analysis"'
-- '"COVID-19"'
 - '"Drug repurposing"'
 - '"Granulocytes"'
 - '"Molecular disease phenotypes"'
@@ -173,7 +173,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-25T12:28:16.499620Z'
+publishDate: '2021-03-03T19:39:09.579756Z'
 publication_types:
 - '2'
 abstract: The SARS-CoV-2 pandemic is currently leading to increasing numbers of COVID-19

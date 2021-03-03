@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-25T12:28:15.129222Z'
+publishDate: '2021-03-03T19:39:08.222020Z'
 publication_types:
 - '2'
 abstract: Serology testing is explored for epidemiological research and to inform
