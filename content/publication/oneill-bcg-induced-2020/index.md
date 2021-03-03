@@ -5,7 +5,7 @@ title: 'BCG-induced trained immunity: can it offer protection against COVID-19?'
 subtitle: ''
 summary: ''
 authors:
-- Luke A. J. O'Neill
+- Luke A. J. O’Neill
 - Mihai G. Netea
 tags:
 - '"COVID-19"'
@@ -42,10 +42,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:12.470114Z'
+publishDate: '2021-03-03T20:40:22.814907Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Nat Rev Immunol*'
+abstract: Bacillus Calmette–Guérin (BCG) vaccination has been reported to decrease
+  susceptibility to respiratory tract infections, an effect proposed to be mediated
+  by the general long-term boosting of innate immune mechanisms, also termed trained
+  immunity. Here, we discuss the non-specific beneficial effects of BCG against viral
+  infections and whether this vaccine may afford protection to COVID-19.
+publication: '*Nature Reviews Immunology*'
 doi: 10.1038/s41577-020-0337-y
+url_pdf: https://www.nature.com/articles/s41577-020-0337-y
 ---

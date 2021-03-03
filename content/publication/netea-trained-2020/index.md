@@ -54,18 +54,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:12.593572Z'
+publishDate: '2021-03-03T20:40:23.087818Z'
 publication_types:
 - '2'
 abstract: SARS-CoV-2 infection is mild in the majority of individuals but progresses
   into severe pneumonia in a small proportion of patients. The increased susceptibility
   to severe disease in the elderly and individuals with co-morbidities argues for
   an initial defect in anti-viral host defense mechanisms. Long-term boosting of innate
-  immune responses, also termed \"trained immunity,\" by certain live vaccines (BCG,
+  immune responses, also termed “trained immunity,” by certain live vaccines (BCG,
   oral polio vaccine, measles) induces heterologous protection against infections
   through epigenetic, transcriptional, and functional reprogramming of innate immune
   cells. We propose that induction of trained immunity by whole-microorganism vaccines
   may represent an important tool for reducing susceptibility to and severity of SARS-CoV-2.
 publication: '*Cell*'
 doi: 10.1016/j.cell.2020.04.042
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0092867420305079
 ---

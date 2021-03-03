@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:09.325442Z'
+publishDate: '2021-03-03T20:40:18.558213Z'
 publication_types:
 - '2'
 abstract: A SARS-CoV2 super-spreading event occurred during carnival in a small town

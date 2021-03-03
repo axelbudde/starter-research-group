@@ -6,47 +6,20 @@ title: Kallikrein-kinin blockade in patients with COVID-19 to prevent acute resp
 subtitle: ''
 summary: ''
 authors:
-- Frank L. van de Veerdonk
-- Mihai G. Netea
+- Frank L van de Veerdonk
+- Mihai G Netea
 - Marcel van Deuren
-- Jos Wm van der Meer
+- Jos WM van der Meer
 - Quirijn de Mast
-- Roger J. Brüggemann
+- Roger J Brüggemann
 - Hans van der Hoeven
 tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Humans"'
-- '"virus"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Respiratory Distress Syndrome"'
-- '"Antiviral Agents"'
-- '"Inflammation"'
-- '"Angioedema"'
-- '"Anti-Inflammatory Agents"'
 - '"bradykinin"'
-- '"Bradykinin Receptor Antagonists"'
-- '"Drug Development"'
-- '"Endothelial Cells"'
-- '"human biology"'
+- '"COVID-19"'
 - '"icatibant"'
-- '"immunology"'
 - '"inflammation"'
-- '"Kallikreins"'
 - '"kinin"'
-- '"Kinins"'
-- '"Lung"'
-- '"medicine"'
-- '"Receptor"'
-- '"Bradykinin B1"'
-- '"Receptor"'
-- '"Bradykinin B2"'
 - '"SARS"'
-- '"Signal Transduction"'
 categories: []
 date: '2020-04-01'
 lastmod: 2021-03-03T20:39:12+01:00
@@ -67,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:12.224585Z'
+publishDate: '2021-03-03T20:40:23.627281Z'
 publication_types:
 - '2'
 abstract: COVID-19 patients can present with pulmonary edema early in disease. We
@@ -82,6 +55,7 @@ abstract: COVID-19 patients can present with pulmonary edema early in disease. W
   effect on early disease caused by COVID-19 and might prevent acute respiratory distress
   syndrome (ARDS). In addition, this pathway might indirectly be responsive to anti-inflammatory
   agents.
-publication: '*Elife*'
+publication: '*eLife*'
 doi: 10.7554/eLife.57555
+url_pdf: https://doi.org/10.7554/eLife.57555
 ---

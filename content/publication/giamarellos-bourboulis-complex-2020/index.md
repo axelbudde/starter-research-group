@@ -35,35 +35,15 @@ authors:
 - Antonia Koutsoukou
 tags:
 - '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Pandemics"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Antibodies"'
-- '"Monoclonal"'
-- '"Humanized"'
 - '"dysregulation"'
 - '"ferritin"'
 - '"HLA-DR"'
-- '"HLA-DR Antigens"'
-- '"Inflammation"'
 - '"interleukin-6"'
-- '"Interleukin-6"'
-- '"Killer Cells"'
-- '"Natural"'
 - '"lymphopenia"'
-- '"Lymphopenia"'
 - '"macrophage activation"'
-- '"Macrophage Activation"'
 - '"monocytes"'
-- '"Monocytes"'
 - '"respiratory failure"'
-- '"Respiratory Insufficiency"'
+- '"SARS-CoV-2"'
 categories: []
 date: '2020-06-01'
 lastmod: 2021-03-03T20:39:12+01:00
@@ -84,11 +64,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:12.097285Z'
+publishDate: '2021-03-03T20:40:22.614467Z'
 publication_types:
 - '2'
 abstract: Proper management of COVID-19 mandates better understanding of disease pathogenesis.
-  The sudden clinical deterioration 7-8 days after initial symptom onset suggests
+  The sudden clinical deterioration 7–8 days after initial symptom onset suggests
   that severe respiratory failure (SRF) in COVID-19 is driven by a unique pattern
   of immune dysfunction. We studied immune responses of 54 COVID-19 patients, 28 of
   whom had SRF. All patients with SRF displayed either macrophage activation syndrome
@@ -101,6 +81,7 @@ abstract: Proper management of COVID-19 mandates better understanding of disease
   accompanied by increase in circulating lymphocytes. Thus, the unique pattern of
   immune dysregulation in severe COVID-19 is characterized by IL-6-mediated low HLA-DR
   expression and lymphopenia, associated with sustained cytokine production and hyper-inflammation.
-publication: '*Cell Host Microbe*'
+publication: '*Cell Host & Microbe*'
 doi: 10.1016/j.chom.2020.04.009
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1931312820302365
 ---

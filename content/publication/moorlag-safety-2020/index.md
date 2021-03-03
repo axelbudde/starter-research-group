@@ -15,13 +15,13 @@ authors:
 - Vera P. Mourits
 - Valerie A. C. M. Koeken
 - L. Charlotte J. de Bree
-- Thijs Ten Doesschate
+- Thijs ten Doesschate
 - Maartje C. Cleophas
 - Sanne Smeekens
 - Marije Oosting
 - Frank L. van de Veerdonk
 - Leo A. B. Joosten
-- Jaap Ten Oever
+- Jaap ten Oever
 - Jos W. M. van der Meer
 - Nigel Curtis
 - Peter Aaby
@@ -31,13 +31,13 @@ authors:
 - Reinout van Crevel
 - Mihai G. Netea
 tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"BCG"'
-- '"trained immunity"'
 - '"Bacille Calmette-Guérin"'
+- '"BCG"'
+- '"COVID-19"'
 - '"non-specific effects"'
 - '"off-target effects"'
+- '"SARS-CoV-2"'
+- '"trained immunity"'
 categories: []
 date: '2020-08-01'
 lastmod: 2021-03-03T20:39:13+01:00
@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:13.206802Z'
+publishDate: '2021-03-03T20:40:21.785388Z'
 publication_types:
 - '2'
 abstract: Bacille Calmette-Guérin (BCG) induces long-term boosting of innate immunity,
@@ -74,6 +74,7 @@ abstract: Bacille Calmette-Guérin (BCG) induces long-term boosting of innate im
   p textless 0.05), and lower incidence of extreme fatigue. In conclusion, recent
   BCG vaccination is safe, and large randomized trials are needed to reveal if BCG
   reduces the incidence and/or severity of SARS-CoV-2 infection.
-publication: '*Cell Rep Med*'
+publication: '*Cell Reports Medicine*'
 doi: 10.1016/j.xcrm.2020.100073
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2666379120300938
 ---

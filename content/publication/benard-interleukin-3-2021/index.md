@@ -39,7 +39,7 @@ authors:
 - Georg F. Weber
 tags: []
 categories: []
-date: '2021-12-01'
+date: '2021-02-01'
 lastmod: 2021-03-03T20:39:10+01:00
 featured: false
 draft: false
@@ -58,24 +58,23 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:09.986389Z'
+publishDate: '2021-03-03T20:40:19.748635Z'
 publication_types:
 - '2'
-abstract: Abstract   Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
-  is a worldwide health threat. In a prospective multicentric study, we identify IL-3
-  as an independent prognostic marker for the outcome during SARS-CoV-2 infections.
-  Specifically, low plasma IL-3 levels is associated with increased severity, viral
-  load, and mortality during SARS-CoV-2 infections. Patients with severe COVID-19
-  exhibit also reduced circulating plasmacytoid dendritic cells (pDCs) and low plasma
-  IFNα and IFNλ levels when compared to non-severe COVID-19 patients. In a mouse model
-  of pulmonary HSV-1 infection, treatment with recombinant IL-3 reduces viral load
-  and mortality. Mechanistically, IL-3 increases innate antiviral immunity by promoting
-  the recruitment of circulating pDCs into the airways by stimulating CXCL12 secretion
-  from pulmonary CD123  +  epithelial cells, both, in mice and in COVID-19 negative
-  patients exhibiting pulmonary diseases. This study identifies IL-3 as a predictive
-  disease marker for SARS-CoV-2 infections and as a potential therapeutic target for
-  pulmunory viral infections.
-publication: '*Nat Commun*'
-url_pdf: http://www.nature.com/articles/s41467-021-21310-4
+abstract: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a worldwide
+  health threat. In a prospective multicentric study, we identify IL-3 as an independent
+  prognostic marker for the outcome during SARS-CoV-2 infections. Specifically, low
+  plasma IL-3 levels is associated with increased severity, viral load, and mortality
+  during SARS-CoV-2 infections. Patients with severe COVID-19 exhibit also reduced
+  circulating plasmacytoid dendritic cells (pDCs) and low plasma IFNα and IFNλ levels
+  when compared to non-severe COVID-19 patients. In a mouse model of pulmonary HSV-1
+  infection, treatment with recombinant IL-3 reduces viral load and mortality. Mechanistically,
+  IL-3 increases innate antiviral immunity by promoting the recruitment of circulating
+  pDCs into the airways by stimulating CXCL12 secretion from pulmonary CD123+ epithelial
+  cells, both, in mice and in COVID-19 negative patients exhibiting pulmonary diseases.
+  This study identifies IL-3 as a predictive disease marker for SARS-CoV-2 infections
+  and as a potential therapeutic target for pulmunory viral infections.
+publication: '*Nature Communications*'
+url_pdf: https://www.nature.com/articles/s41467-021-21310-4
 doi: 10.1038/s41467-021-21310-4
 ---

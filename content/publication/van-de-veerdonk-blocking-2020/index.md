@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:12.717002Z'
+publishDate: '2021-03-03T20:40:22.211376Z'
 publication_types:
 - '2'
 abstract: COVID-19 is an emerging disease that can manifest itself as asymptomatic
@@ -49,6 +49,7 @@ abstract: COVID-19 is an emerging disease that can manifest itself as asymptomat
   therapies in patients with symptomatic SARS-CoV-2 infection and might in addition
   to antiviral treatment be enough to curb the currently unacceptably high morbidity
   and mortality associated with COVID-19.
-publication: '*Crit Care*'
+publication: '*Critical Care*'
 doi: 10.1186/s13054-020-03166-0
+url_pdf: https://doi.org/10.1186/s13054-020-03166-0
 ---

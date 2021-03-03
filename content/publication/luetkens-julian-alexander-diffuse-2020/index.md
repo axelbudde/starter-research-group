@@ -1,30 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Considering BCG vaccination to reduce the impact of COVID-19
+title: Diffuse Myocardial Inflammation in COVID-19 Associated Myocarditis Detected
+  by Multiparametric Cardiac Magnetic Resonance Imaging
 subtitle: ''
 summary: ''
 authors:
-- Nigel Curtis
-- Annie Sparrow
-- Tedros A Ghebreyesus
-- Mihai G Netea
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Humans"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"BCG Vaccine"'
-- '"Immunity"'
-- '"Heterologous"'
-- '"Randomized Controlled Trials as Topic"'
+- Luetkens Julian Alexander
+- Isaak Alexander
+- Zimmer Sebastian
+- Nattermann Jacob
+- Sprinkart Alois Martin
+- Boesecke Christoph
+- Rieke Gereon Jonas
+- Zachoval Christian
+- Heine Annkristin
+- Velten Markus
+- Duerr Georg Daniel
+tags: []
 categories: []
 date: '2020-05-01'
-lastmod: 2021-03-03T20:39:12+01:00
+lastmod: 2021-03-03T21:40:23+01:00
 featured: false
 draft: false
 
@@ -42,11 +38,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:23.471393Z'
+publishDate: '2021-03-03T20:40:23.346881Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*The Lancet*'
-doi: 10.1016/S0140-6736(20)31025-4
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0140673620310254
+publication: '*Circulation: Cardiovascular Imaging*'
+url_pdf: https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.120.010897
+doi: 10.1161/CIRCIMAGING.120.010897
 ---

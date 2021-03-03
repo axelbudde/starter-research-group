@@ -14,7 +14,7 @@ authors:
 - G. Rieke
 - A. Isaak
 - J. Jehle
-- S. a. E. Held
+- S. A. E. Held
 - J. C. Wasmuth
 - M. Wittmann
 - C. P. Strassburg
@@ -25,30 +25,11 @@ authors:
 - C. Kurts
 - M. Velten
 tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Aged"'
-- '"Biomarkers"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
 - '"CD8"'
-- '"Coronavirus Infections"'
-- '"Germany"'
-- '"Magnetic Resonance Imaging"'
+- '"COVID-19"'
 - '"Monocyte"'
-- '"Myocardial Reperfusion Injury"'
-- '"Myocardium"'
 - '"Pericardial effusion"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Prognosis"'
-- '"Risk Assessment"'
-- '"Risk Factors"'
-- '"Survival Rate"'
+- '"SARS-CoV-2"'
 - '"Treg"'
 categories: []
 date: '2020-11-01'
@@ -70,14 +51,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:10.364662Z'
+publishDate: '2021-03-03T20:40:21.133542Z'
 publication_types:
 - '2'
-abstract: 'Clinical manifestations of COVID-19 affect many organs, including the heart.
+abstract: Clinical manifestations of COVID-19 affect many organs, including the heart.
   Cardiovascular disease is a dominant comorbidity and prognostic factors predicting
   risk for critical courses are highly needed. Moreover, immunomechanisms underlying
-  COVID-induced myocardial damage are poorly understood. OBJECTIVE: To elucidate prognostic
-  markers to identify patients at risk. RESULTS: Only patients with pericardial effusion
+  COVID-induced myocardial damage are poorly understood. Objective To elucidate prognostic
+  markers to identify patients at risk. Results Only patients with pericardial effusion
   (PE) developed a severe disease course, and those who died could be identified by
   a high CD8/Treg/monocyte ratio. Ten out of 19 COVID-19 patients presented with PE,
   7 (78%) of these had elevated APACHE-II mortality risk-score, requiring mechanical
@@ -87,14 +68,15 @@ abstract: 'Clinical manifestations of COVID-19 affect many organs, including the
   were not yet increased. During the course of disease, hs-TnT rose in 8 of the PE-patients
   above 16 ng/l, 7 had to undergo ventilatory therapy and 4 of them died. FACS at
   admission showed in PE patients elevated frequencies of CD3+CD8+ T cells among all
-  CD3+ T-cells, and lower frequencies of Tregs and CD14+HLA-DR+-monocytes. A high
+  CD3+ T-cells, and lower frequencies of Tregs and CD14+HLA−DR+-monocytes. A high
   CD8/Treg/monocyte ratio predicted a severe disease course in PE patients, and was
   associated with high serum levels of antiviral cytokines. By contrast, patients
   without PE and PE patients with a low CD8/Treg/monocyte ratio neither had to be
-  intubated, nor died. CONCLUSIONS: PE predicts cardiac injury in COVID-19 patients.
+  intubated, nor died. Conclusions PE predicts cardiac injury in COVID-19 patients.
   Therefore, TTE should be performed at admission. Immunological parameters for dysfunctional
   antiviral immunity, such as the CD8/Treg/monocyte ratio used here, supports risk
-  assessment by predicting poor prognosis.'
-publication: '*Life Sci*'
+  assessment by predicting poor prognosis.
+publication: '*Life Sciences*'
 doi: 10.1016/j.lfs.2020.118400
+url_pdf: https://www.sciencedirect.com/science/article/pii/S002432052031153X
 ---

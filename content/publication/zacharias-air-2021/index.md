@@ -15,13 +15,13 @@ authors:
 - Nico T. Mutters
 - Steffen Engelhart
 tags:
-- '"COVID-19"'
 - '"Air purification"'
 - '"Bacteriophages"'
+- '"COVID-19"'
 - '"phiX174"'
 - '"Transmission"'
 categories: []
-date: '2021-02-01'
+date: '2021-06-01'
 lastmod: 2021-03-03T20:39:10+01:00
 featured: false
 draft: false
@@ -40,16 +40,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:10.749699Z'
+publishDate: '2021-03-03T20:40:20.600884Z'
 publication_types:
 - '2'
 abstract: For testing the effectiveness of air purification devices in regard to the
   reduction of virus-containing aerosols, a test method involving test viruses has
   been lacking until now. The use of bacteriophages (phiX174 phages) is a method to
   test the efficiency of air purification devices under experimental conditions. Using
-  air purifiers with a HEPA filter H14, a 4.6-6.1 Log reduction of test viruses can
+  air purifiers with a HEPA filter H14, a 4.6–6.1 Log reduction of test viruses can
   be achieved if bacteriophages are directly aerosolised into the air purifier, which
-  corresponds to a reduction of 99.9974-99.9999%. Due to the complexity and individuality
+  corresponds to a reduction of 99.9974–99.9999%. Due to the complexity and individuality
   of air flow, an experimental approach was used in which all outside influences were
   minimised. The experimental setup was practical and chosen to project a scenario
   of direct transmission by an emitting source to a recipient. The experiments were
@@ -61,6 +61,7 @@ abstract: For testing the effectiveness of air purification devices in regard to
   reduced up to 1 log step (maximum value) by the use of the air purifier in comparison
   to the experiments without. Distance was shown to be an important factor for risk
   reduction.
-publication: '*Sci Total Environ*'
+publication: '*Science of The Total Environment*'
 doi: 10.1016/j.scitotenv.2021.144956
+url_pdf: https://www.sciencedirect.com/science/article/pii/S004896972100022X
 ---

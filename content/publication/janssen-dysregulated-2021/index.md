@@ -6,44 +6,44 @@ title: Dysregulated innate and adaptive immune responses discriminate disease se
 subtitle: ''
 summary: ''
 authors:
-- Nico A. F. Janssen
+- Nico A F Janssen
 - Inge Grondman
-- Aline H. de Nooijer
-- Collins K. Boahen
-- Valerie A. C. M. Koeken
+- Aline H de Nooijer
+- Collins K Boahen
+- Valerie A C M Koeken
 - Vasiliki Matzaraki
 - Vinod Kumar
 - Xuehui He
 - Matthijs Kox
-- Hans J. P. M. Koenen
-- Ruben L. Smeets
+- Hans J P M Koenen
+- Ruben L Smeets
 - Irma Joosten
-- Roger J. M. Brüggemann
-- Ilse J. E. Kouijzer
-- Hans G. van der Hoeven
-- Jeroen A. Schouten
+- Roger J M Brüggemann
+- Ilse J E Kouijzer
+- Hans G van der Hoeven
+- Jeroen A Schouten
 - Tim Frenzel
 - Monique Reijers
 - Wouter Hoefsloot
-- Anton S. M. Dofferhoff
-- Marjan J. van Apeldoorn
-- Marc J. T. Blaauw
+- Anton S M Dofferhoff
+- Marjan J van Apeldoorn
+- Marc J T Blaauw
 - Karin Veerman
 - Coen Maas
-- Arjan H. Schoneveld
-- Imo E. Hoefer
-- Lennie P. G. Derde
+- Arjan H Schoneveld
+- Imo E Hoefer
+- Lennie P G Derde
 - Marcel van Deuren
-- Jos W. M. van der Meer
+- Jos W M van der Meer
 - Reinout van Crevel
-- Evangelos J. Giamarellos-Bourboulis
-- Leo A. B. Joosten
-- Michel M. van den Heuvel
+- Evangelos J Giamarellos-Bourboulis
+- Leo A B Joosten
+- Michel M van den Heuvel
 - Jacobien Hoogerwerf
 - Quirijn de Mast
 - Peter Pickkers
-- Mihai G. Netea
-- Frank L. van de Veerdonk
+- Mihai G Netea
+- Frank L van de Veerdonk
 tags:
 - '"COVID-19"'
 - '"Biomarkers"'
@@ -74,7 +74,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:11.608866Z'
+publishDate: '2021-03-03T20:40:20.323972Z'
 publication_types:
 - '2'
 abstract: The clinical spectrum of COVID-19 varies and the differences in host response
@@ -91,6 +91,7 @@ abstract: The clinical spectrum of COVID-19 varies and the differences in host r
   ill patients, whereas innate immune responses were intact or hyperresponsive. Collectively,
   this extensive analysis provides a comprehensive insight into the pathobiology of
   severe to critical COVID-19 and highlight potential biomarkers of disease severity.
-publication: '*J Infect Dis*'
+publication: '*The Journal of Infectious Diseases*'
 doi: 10.1093/infdis/jiab065
+url_pdf: https://doi.org/10.1093/infdis/jiab065
 ---

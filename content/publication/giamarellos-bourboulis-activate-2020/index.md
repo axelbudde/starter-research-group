@@ -26,26 +26,14 @@ authors:
 - Antonios Papadopoulos
 - Mihai G. Netea
 tags:
-- '"Aged"'
-- '"Aged"'
-- '"80 and over"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
 - '"BCG"'
-- '"elderly"'
-- '"trained immunity"'
-- '"BCG Vaccine"'
 - '"cytokines"'
-- '"Double-Blind Method"'
+- '"elderly"'
 - '"epigenetic modifications"'
-- '"Hospitalization"'
 - '"infection incidence"'
 - '"respiratory infections"'
-- '"Respiratory Tract Infections"'
+- '"trained immunity"'
 - '"vaccination"'
-- '"Virus Diseases"'
 categories: []
 date: '2020-10-01'
 lastmod: 2021-03-03T20:39:13+01:00
@@ -66,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:13.331391Z'
+publishDate: '2021-03-03T20:40:21.266671Z'
 publication_types:
 - '2'
 abstract: BCG vaccination in children protects against heterologous infections and
@@ -76,7 +64,7 @@ abstract: BCG vaccination in children protects against heterologous infections a
   hospital discharge and were followed for 12 months for new infections. At interim
   analysis, BCG vaccination significantly increased the time to first infection (median
   16 weeks compared to 11 weeks after placebo). The incidence of new infections was
-  42.3% (95% CIs 31.9%-53.4%) after placebo vaccination and 25.0% (95% CIs 16.4%-36.1%)
+  42.3% (95% CIs 31.9%–53.4%) after placebo vaccination and 25.0% (95% CIs 16.4%–36.1%)
   after BCG vaccination; most of the protection was against respiratory tract infections
   of probable viral origin (hazard ratio 0.21, p = 0.013). No difference in the frequency
   of adverse effects was found. Data show that BCG vaccination is safe and can protect
@@ -84,4 +72,5 @@ abstract: BCG vaccination in children protects against heterologous infections a
   respiratory infections, including COVID-19 (ClinicalTrials.gov NCT03296423).
 publication: '*Cell*'
 doi: 10.1016/j.cell.2020.08.051
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0092867420311399
 ---

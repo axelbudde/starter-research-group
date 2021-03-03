@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Trained immunity as a novel approach against COVID-19 with a focus on Bacillus
-  Calmette-Guérin vaccine: mechanisms, challenges and perspectives'
+  Calmette–Guérin vaccine: mechanisms, challenges and perspectives'
 subtitle: ''
 summary: ''
 authors:
@@ -12,11 +12,11 @@ authors:
 - Hannes Findeisen
 - Rinesh Godfrey
 - Mihai G. Netea
-- Leo Ab Joosten
+- Leo AB Joosten
 tags:
 - '"BCG"'
+- '"COVID-19"'
 - '"trained immunity"'
-- '"COVID‐19"'
 - '"vaccine"'
 categories: []
 date: '2020-01-01'
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:11.977020Z'
+publishDate: '2021-03-03T20:40:23.847724Z'
 publication_types:
 - '2'
 abstract: COVID-19 is a severe health problem in many countries and has altered day-to-day
@@ -49,7 +49,7 @@ abstract: COVID-19 is a severe health problem in many countries and has altered 
   role in protection against COVID-19. However, dysregulation of innate immunity could
   have a significant influence on the severity of the disease. Despite various efforts,
   there is no effective vaccine against the disease so far. Recent data have demonstrated
-  that the Bacillus Calmette-Guérin (BCG) vaccine could reduce disease severity and
+  that the Bacillus Calmette–Guérin (BCG) vaccine could reduce disease severity and
   the burden of several infectious diseases in addition to targeting its primary focus
   tuberculosis. There is growing evidence for the concept of beneficial non-specific
   boosting of immune responses by BCG or other microbial compounds termed trained
@@ -58,6 +58,7 @@ abstract: COVID-19 is a severe health problem in many countries and has altered 
   BCG can result in protection against SARS-CoV-2 infection. We also discuss possible
   mechanisms, challenges and perspectives of using innate immunity as an approach
   to reduce COVID-19 severity.
-publication: '*Clin Transl Immunology*'
-doi: 10.1002/cti2.1228
+publication: '*Clinical & Translational Immunology*'
+doi: https://doi.org/10.1002/cti2.1228
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1228
 ---

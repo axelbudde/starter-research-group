@@ -76,42 +76,112 @@ authors:
 - Stefan Schreiber
 - Joachim L. Schultze
 - Philip Rosenstiel
-- HCA Lung Biological Network
-- Deutsche COVID-19 Omics Initiative (DeCOI)
+- Nicholas E. Banovich
+- Tushar Desai
+- Oliver Eickelberg
+- Muzlifa Haniffa
+- Peter Horvath
+- Jonathan A. Kropski
+- Robert Lafyatis
+- Joakim Lundeberg
+- Kerstin Meyer
+- Martijn C. Nawijn
+- Marko Nikolic
+- Jose Ordovas Montanes
+- Dana Pe’er
+- Purushothama Rao Tata
+- Emma Rawlins
+- Aviv Regev
+- Paul Reyfman
+- Christos Samakovlis
+- Joachim Schultze
+- Alex Shalek
+- Douglas Shepherd
+- Jason Spence
+- Sarah Teichmann
+- Fabian Theis
+- Alexander Tsankov
+- Maarten van den Berge
+- Michael von Papen
+- Jeffrey Whitsett
+- Laure Emmanuelle Zaragosi
+- Angel Angelov
+- Robert Bals
+- Alexander Bartholomäus
+- Anke Becker
+- Daniela Bezdan
+- Ezio Bonifacio
+- Peer Bork
+- Thomas Clavel
+- Maria Colme-Tatche
+- Andreas Diefenbach
+- Alexander Dilthey
+- Nicole Fischer
+- Konrad Förstner
+- Julia-Stefanie Frick
+- Julien Gagneur
+- Alexander Goesmann
+- Torsten Hain
+- Michael Hummel
+- Stefan Janssen
+- Jörn Kalinowski
+- René Kallies
+- Birte Kehr
+- Andreas Keller
+- Sarah Kim-Hellmuth
+- Christoph Klein
+- Oliver Kohlbacher
+- Jan O. Korbel
+- Ingo Kurth
+- Markus Landthaler
+- Yang Li
+- Kerstin Ludwig
+- Oliwia Makarewicz
+- Manja Marz
+- Alice McHardy
+- Christian Mertes
+- Markus Nöthen
+- Peter Nürnberg
+- Uwe Ohler
+- Stephan Ossowski
+- Jörg Overmann
+- Silke Peter
+- Klaus Pfeffer
+- Anna R. Poetsch
+- Alfred Pühler
+- Niklaus Rajewsky
+- Markus Ralser
+- Olaf Rieß
+- Stephan Ripke
+- Ulisses Nunes da Rocha
+- Philip Rosenstiel
+- Antoine-Emmanuel Saliba
+- Leif Erik Sander
+- Birgit Sawitzki
+- Philipp Schiffer
+- Eva-Christina Schulte
+- Joachim L. Schultze
+- Alexander Sczyrba
+- Oliver Stegle
+- Jens Stoye
+- Fabian Theis
+- Janne Vehreschild
+- Jörg Vogel
+- Max von Kleist
+- Andreas Walker
+- Jörn Walter
+- Dagmar Wieczorek
+- John Ziebuhr
 tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
 - '"acute respiratory distress"'
-- '"Adult"'
-- '"Aged"'
-- '"Aged"'
-- '"80 and over"'
-- '"Biomarkers"'
 - '"blood"'
-- '"Blood Circulation"'
-- '"Cells"'
-- '"Cultured"'
-- '"Cohort Studies"'
-- '"Disease Progression"'
+- '"COVID-19"'
 - '"disease trajectory"'
-- '"Erythroid Cells"'
-- '"Female"'
-- '"Gene Expression Profiling"'
-- '"Humans"'
 - '"immune response"'
 - '"infectious disease"'
-- '"Male"'
-- '"Megakaryocytes"'
 - '"methylation"'
-- '"Middle Aged"'
-- '"Plasma Cells"'
-- '"Proteomics"'
 - '"RNA-seq"'
 - '"scRNA-seq"'
-- '"Sequence Analysis"'
-- '"RNA"'
-- '"Severity of Illness Index"'
-- '"Single-Cell Analysis"'
 - '"virus"'
 categories: []
 date: '2020-12-01'
@@ -133,7 +203,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:10.110380Z'
+publishDate: '2021-03-03T20:40:20.987708Z'
 publication_types:
 - '2'
 abstract: Temporal resolution of cellular features associated with a severe COVID-19
@@ -152,4 +222,5 @@ abstract: Temporal resolution of cellular features associated with a severe COVI
   toward developing biomarkers and targeted treatments of patients with COVID-19.
 publication: '*Immunity*'
 doi: 10.1016/j.immuni.2020.11.017
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1074761320305045
 ---

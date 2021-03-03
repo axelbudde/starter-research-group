@@ -52,10 +52,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:12.960970Z'
+publishDate: '2021-03-03T20:40:21.936355Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*JAMA Netw Open*'
 doi: 10.1001/jamanetworkopen.2020.17708
+url_pdf: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2769237
 ---

@@ -42,7 +42,7 @@ authors:
 - Maarten Kamermans
 - Harm H. Kampinga
 - Martien J. Kas
-- J. Aap Keijer
+- J. aap Keijer
 - Sander Kersten
 - Amanda J. Kiliaan
 - Taco W. A. Kooij
@@ -71,7 +71,7 @@ authors:
 - Jacco van Rheenen
 - Ronald P. van Rij
 - Laila Ritsma
-- Barry H. G. Rockx
+- Barry. H. G. Rockx
 - Benno Roozendaal
 - Evert M. van Schothorst
 - K. Stittelaar
@@ -121,7 +121,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:13.581713Z'
+publishDate: '2021-03-03T20:40:21.554804Z'
 publication_types:
 - '2'
 abstract: Recently, a petition was offered to the European Commission calling for
@@ -137,6 +137,7 @@ abstract: Recently, a petition was offered to the European Commission calling fo
   organs and systems, and the various animal-free alternatives currently available
   do not come close to this complexity. In this Essay, we therefore argue that the
   use of animals is essential for the advancement of human and veterinary health.
-publication: '*Curr Biol*'
+publication: '*Current Biology*'
 doi: 10.1016/j.cub.2020.08.030
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0960982220311842
 ---

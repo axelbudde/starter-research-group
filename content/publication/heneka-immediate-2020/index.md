@@ -12,25 +12,13 @@ authors:
 - Dave Morgan
 - Robert Brown
 tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Humans"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Animals"'
-- '"Brain"'
 - '"Cognition"'
 - '"Cytokine"'
 - '"Decline"'
 - '"Neurodegeneration"'
-- '"Neurodegenerative Diseases"'
 - '"Neuroinflammation"'
 - '"NLRP3 inflammasome"'
 - '"Systemic inflammation"'
-- '"Time Factors"'
 categories: []
 date: '2020-06-01'
 lastmod: 2021-03-03T20:39:11+01:00
@@ -51,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T19:39:11.238427Z'
+publishDate: '2021-03-03T20:40:22.470013Z'
 publication_types:
 - '2'
 abstract: Increasing evidence suggests that infection with Sars-CoV-2 causes neurological
@@ -67,6 +55,7 @@ abstract: Increasing evidence suggests that infection with Sars-CoV-2 causes neu
   be at higher risk of developing cognitive decline after overcoming the primary COVID-19
   infection. A structured prospective evaluation should analyze the likelihood, time
   course, and severity of cognitive impairment following the COVID-19 pandemic.
-publication: '*Alzheimers Res Ther*'
+publication: "*Alzheimer's Research & Therapy*"
 doi: 10.1186/s13195-020-00640-3
+url_pdf: https://doi.org/10.1186/s13195-020-00640-3
 ---
