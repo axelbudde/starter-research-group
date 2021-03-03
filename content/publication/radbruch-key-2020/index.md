@@ -10,27 +10,10 @@ authors:
 - Liliana de Lima
 - Cornelis de Joncheere
 - Afsan Bhadelia
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Humans"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Capacity Building"'
-- '"Civil Defense"'
-- '"Continuity of Patient Care"'
-- '"Developing Countries"'
-- '"Health Services Accessibility"'
-- '"Palliative Care"'
-- '"Stress"'
-- '"Psychological"'
-- '"Telemedicine"'
+tags: []
 categories: []
 date: '2020-05-01'
-lastmod: 2021-03-03T20:39:11+01:00
+lastmod: 2021-03-03T22:16:46+01:00
 featured: false
 draft: false
 
@@ -48,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:23.220298Z'
+publishDate: '2021-03-03T21:16:46.010493Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*The Lancet*'
-doi: 10.1016/S0140-6736(20)30964-8
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0140673620309648
+doi: 10.1016/S0140-6736(20)30964-8
 ---

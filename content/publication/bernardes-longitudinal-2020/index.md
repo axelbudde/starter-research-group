@@ -185,7 +185,7 @@ tags:
 - '"virus"'
 categories: []
 date: '2020-12-01'
-lastmod: 2021-03-03T20:39:10+01:00
+lastmod: 2021-03-03T22:16:44+01:00
 featured: false
 draft: false
 
@@ -203,7 +203,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:20.987708Z'
+publishDate: '2021-03-03T21:16:44.032274Z'
 publication_types:
 - '2'
 abstract: Temporal resolution of cellular features associated with a severe COVID-19
@@ -221,6 +221,6 @@ abstract: Temporal resolution of cellular features associated with a severe COVI
   of SARS-CoV-2 infection beyond adaptive immune cells and provides an entry point
   toward developing biomarkers and targeted treatments of patients with COVID-19.
 publication: '*Immunity*'
-doi: 10.1016/j.immuni.2020.11.017
 url_pdf: https://www.sciencedirect.com/science/article/pii/S1074761320305045
+doi: 10.1016/j.immuni.2020.11.017
 ---

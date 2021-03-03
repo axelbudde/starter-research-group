@@ -18,7 +18,7 @@ tags:
 - '"trained immunity"'
 categories: []
 date: '2021-02-01'
-lastmod: 2021-03-03T20:39:11+01:00
+lastmod: 2021-03-03T22:16:43+01:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:19.896878Z'
+publishDate: '2021-03-03T21:16:43.011759Z'
 publication_types:
 - '2'
 abstract: Age is a key risk factor associated with the severity of symptoms caused
@@ -45,6 +45,6 @@ abstract: Age is a key risk factor associated with the severity of symptoms caus
   by BCG vaccination may improve immune responses and can serve as a strategy to combat
   COVID-19 in this population.
 publication: '*Med*'
-doi: 10.1016/j.medj.2021.02.004
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2666634021000659
+doi: 10.1016/j.medj.2021.02.004
 ---

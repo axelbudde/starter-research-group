@@ -11,28 +11,10 @@ authors:
 - Ulrike Attenberger
 - Markus Essler
 - Ralph Alexander Bundschuh
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Disease Outbreaks"'
-- '"Fluorodeoxyglucose F18"'
-- '"Interdisciplinary Communication"'
-- '"Nuclear Medicine"'
-- '"Polymerase Chain Reaction"'
-- '"Positron Emission Tomography Computed Tomography"'
-- '"Respiratory Distress Syndrome"'
+tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2021-03-03T20:39:10+01:00
+lastmod: 2021-03-03T22:16:45+01:00
 featured: false
 draft: false
 
@@ -50,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:22.340710Z'
+publishDate: '2021-03-03T21:16:45.244592Z'
 publication_types:
 - '2'
 abstract: textlessptextgreaterThe current outbreak of coronavirus SARS-CoV-2 has reached
@@ -64,6 +46,6 @@ abstract: textlessptextgreaterThe current outbreak of coronavirus SARS-CoV-2 has
   the first $^textrm18$F-FDG-PET/CT scans of COVID-19 to discuss how Nuclear Medicine
   could contribute to management of this disease.textless/ptextgreater
 publication: '*Nuklearmedizin*'
-doi: 10.1055/a-1152-2341
 url_pdf: http://www.thieme-connect.de/DOI/DOI?10.1055/a-1152-2341
+doi: 10.1055/a-1152-2341
 ---

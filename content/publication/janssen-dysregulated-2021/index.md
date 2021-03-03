@@ -44,19 +44,10 @@ authors:
 - Peter Pickkers
 - Mihai G Netea
 - Frank L van de Veerdonk
-tags:
-- '"COVID-19"'
-- '"Biomarkers"'
-- '"Proteomics"'
-- '"Adaptive immunity"'
-- '"Cytokines"'
-- '"Disease severity"'
-- '"Exhaustion markers"'
-- '"Flow cytometry"'
-- '"Innate immunity"'
+tags: []
 categories: []
 date: '2021-02-01'
-lastmod: 2021-03-03T20:39:11+01:00
+lastmod: 2021-03-03T22:16:43+01:00
 featured: false
 draft: false
 
@@ -74,7 +65,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:20.323972Z'
+publishDate: '2021-03-03T21:16:43.401429Z'
 publication_types:
 - '2'
 abstract: The clinical spectrum of COVID-19 varies and the differences in host response
@@ -92,6 +83,6 @@ abstract: The clinical spectrum of COVID-19 varies and the differences in host r
   this extensive analysis provides a comprehensive insight into the pathobiology of
   severe to critical COVID-19 and highlight potential biomarkers of disease severity.
 publication: '*The Journal of Infectious Diseases*'
-doi: 10.1093/infdis/jiab065
 url_pdf: https://doi.org/10.1093/infdis/jiab065
+doi: 10.1093/infdis/jiab065
 ---

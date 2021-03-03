@@ -7,19 +7,10 @@ summary: ''
 authors:
 - Frank L. van de Veerdonk
 - Mihai G. Netea
-tags:
-- '"COVID-19"'
-- '"Humans"'
-- '"Pandemics"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Respiratory Insufficiency"'
-- '"Interleukin 1 Receptor Antagonist Protein"'
-- '"Interleukin-1"'
+tags: []
 categories: []
 date: '2020-07-01'
-lastmod: 2021-03-03T20:39:12+01:00
+lastmod: 2021-03-03T22:16:45+01:00
 featured: false
 draft: false
 
@@ -37,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:22.211376Z'
+publishDate: '2021-03-03T21:16:45.086890Z'
 publication_types:
 - '2'
 abstract: COVID-19 is an emerging disease that can manifest itself as asymptomatic
@@ -50,6 +41,6 @@ abstract: COVID-19 is an emerging disease that can manifest itself as asymptomat
   to antiviral treatment be enough to curb the currently unacceptably high morbidity
   and mortality associated with COVID-19.
 publication: '*Critical Care*'
-doi: 10.1186/s13054-020-03166-0
 url_pdf: https://doi.org/10.1186/s13054-020-03166-0
+doi: 10.1186/s13054-020-03166-0
 ---

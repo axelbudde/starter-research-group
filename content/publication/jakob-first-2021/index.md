@@ -41,38 +41,10 @@ authors:
 - Maximilian Schons
 - Christoph Spinner
 - Jörg Janne Vehreschild
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Adult"'
-- '"Aged"'
-- '"Aged"'
-- '"80 and over"'
-- '"Cohort Studies"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Severity of Illness Index"'
-- '"Adolescent"'
-- '"Age Factors"'
-- '"Angiotensin-Converting Enzyme Inhibitors"'
-- '"Body Mass Index"'
-- '"Cardiovascular Diseases"'
-- '"Cohort study"'
-- '"Comorbidity"'
-- '"Diabetes Mellitus"'
-- '"Europe"'
-- '"Hydroxymethylglutaryl-CoA Reductase Inhibitors"'
-- '"Kidney Diseases"'
-- '"LEOSS"'
-- '"Logistic Models"'
-- '"Lung Diseases"'
-- '"Pandemics"'
-- '"Sex Factors"'
+tags: []
 categories: []
 date: '2021-02-01'
-lastmod: 2021-03-03T20:39:10+01:00
+lastmod: 2021-03-03T22:16:43+01:00
 featured: false
 draft: false
 
@@ -90,7 +62,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:20.183826Z'
+publishDate: '2021-03-03T21:16:43.277743Z'
 publication_types:
 - '2'
 abstract: Knowledge regarding patients’ clinical condition at severe acute respiratory
@@ -98,6 +70,6 @@ abstract: Knowledge regarding patients’ clinical condition at severe acute res
   multicenter Lean European Open Survey on SARS-CoV-2-Infected Patients (LEOSS) cohort
   study may enhance the understanding of COVID-19.
 publication: '*Infection*'
-doi: 10.1007/s15010-020-01499-0
 url_pdf: https://doi.org/10.1007/s15010-020-01499-0
+doi: 10.1007/s15010-020-01499-0
 ---

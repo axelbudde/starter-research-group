@@ -87,23 +87,10 @@ authors:
 - Ingo Willuhn
 - Chris I. de Zeeuw
 - Judith R. Homberg
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Humans"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Animals"'
-- '"Animal Experimentation"'
-- '"Biomedical Research"'
-- '"Disease Models"'
-- '"Animal"'
+tags: []
 categories: []
 date: '2020-09-01'
-lastmod: 2021-03-03T20:39:13+01:00
+lastmod: 2021-03-03T22:16:44+01:00
 featured: false
 draft: false
 
@@ -121,7 +108,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:21.554804Z'
+publishDate: '2021-03-03T21:16:44.561532Z'
 publication_types:
 - '2'
 abstract: Recently, a petition was offered to the European Commission calling for
@@ -138,6 +125,6 @@ abstract: Recently, a petition was offered to the European Commission calling fo
   do not come close to this complexity. In this Essay, we therefore argue that the
   use of animals is essential for the advancement of human and veterinary health.
 publication: '*Current Biology*'
-doi: 10.1016/j.cub.2020.08.030
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0960982220311842
+doi: 10.1016/j.cub.2020.08.030
 ---

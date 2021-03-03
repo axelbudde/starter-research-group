@@ -20,7 +20,7 @@ tags:
 - '"vaccine"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-03-03T20:39:12+01:00
+lastmod: 2021-03-03T22:16:46+01:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:23.847724Z'
+publishDate: '2021-03-03T21:16:46.525250Z'
 publication_types:
 - '2'
 abstract: COVID-19 is a severe health problem in many countries and has altered day-to-day
@@ -59,6 +59,6 @@ abstract: COVID-19 is a severe health problem in many countries and has altered 
   mechanisms, challenges and perspectives of using innate immunity as an approach
   to reduce COVID-19 severity.
 publication: '*Clinical & Translational Immunology*'
-doi: https://doi.org/10.1002/cti2.1228
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/cti2.1228
+doi: https://doi.org/10.1002/cti2.1228
 ---

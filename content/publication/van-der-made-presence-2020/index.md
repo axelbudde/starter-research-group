@@ -38,7 +38,7 @@ authors:
 tags: []
 categories: []
 date: '2020-08-01'
-lastmod: 2021-03-03T20:39:12+01:00
+lastmod: 2021-03-03T22:16:45+01:00
 featured: false
 draft: false
 
@@ -56,11 +56,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:22.074236Z'
+publishDate: '2021-03-03T21:16:44.950814Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*JAMA*'
-doi: 10.1001/jama.2020.13719
 url_pdf: https://jamanetwork.com/journals/jama/fullarticle/2768926
+doi: 10.1001/jama.2020.13719
 ---

@@ -7,24 +7,10 @@ summary: ''
 authors:
 - Luke A. J. O’Neill
 - Mihai G. Netea
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Humans"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Animals"'
-- '"BCG Vaccine"'
-- '"Immunity"'
-- '"Innate"'
-- '"Immunogenicity"'
-- '"Vaccine"'
+tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2021-03-03T20:39:12+01:00
+lastmod: 2021-03-03T22:16:45+01:00
 featured: false
 draft: false
 
@@ -42,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:22.814907Z'
+publishDate: '2021-03-03T21:16:45.630215Z'
 publication_types:
 - '2'
 abstract: Bacillus Calmette–Guérin (BCG) vaccination has been reported to decrease
@@ -51,6 +37,6 @@ abstract: Bacillus Calmette–Guérin (BCG) vaccination has been reported to dec
   immunity. Here, we discuss the non-specific beneficial effects of BCG against viral
   infections and whether this vaccine may afford protection to COVID-19.
 publication: '*Nature Reviews Immunology*'
-doi: 10.1038/s41577-020-0337-y
 url_pdf: https://www.nature.com/articles/s41577-020-0337-y
+doi: 10.1038/s41577-020-0337-y
 ---

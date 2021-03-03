@@ -8,19 +8,10 @@ authors:
 - Mihai G. Netea
 - Jos W. M. van der Meer
 - Reinout van Crevel
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Humans"'
-- '"Pandemics"'
-- '"Health Personnel"'
-- '"Vaccination"'
-- '"BCG Vaccine"'
-- '"Prospective Studies"'
-- '"Seroepidemiologic Studies"'
+tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-03-03T20:39:11+01:00
+lastmod: 2021-03-03T22:16:43+01:00
 featured: false
 draft: false
 
@@ -38,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:20.734477Z'
+publishDate: '2021-03-03T21:16:43.780010Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*J Clin Invest*'
-doi: 10.1172/JCI145545
 url_pdf: https://www.jci.org/articles/view/145545
+doi: 10.1172/JCI145545
 ---

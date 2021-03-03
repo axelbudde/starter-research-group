@@ -13,28 +13,10 @@ authors:
 - Coen Maas
 - Mihai G. Netea
 - Roger J. M. Brüggemann
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Adult"'
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Receptor"'
-- '"Bradykinin B2"'
-- '"Bradykinin"'
-- '"Bradykinin B2 Receptor Antagonists"'
-- '"Oxygen"'
+tags: []
 categories: []
 date: '2020-08-01'
-lastmod: 2021-03-03T20:39:13+01:00
+lastmod: 2021-03-03T22:16:44+01:00
 featured: false
 draft: false
 
@@ -52,11 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:21.936355Z'
+publishDate: '2021-03-03T21:16:44.825022Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*JAMA Netw Open*'
-doi: 10.1001/jamanetworkopen.2020.17708
 url_pdf: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2769237
+doi: 10.1001/jamanetworkopen.2020.17708
 ---

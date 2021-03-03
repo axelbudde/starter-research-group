@@ -40,7 +40,7 @@ authors:
 tags: []
 categories: []
 date: '2021-02-01'
-lastmod: 2021-03-03T20:39:10+01:00
+lastmod: 2021-03-03T22:16:43+01:00
 featured: false
 draft: false
 
@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:19.748635Z'
+publishDate: '2021-03-03T21:16:42.883580Z'
 publication_types:
 - '2'
 abstract: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a worldwide

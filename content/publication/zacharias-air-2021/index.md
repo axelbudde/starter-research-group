@@ -22,7 +22,7 @@ tags:
 - '"Transmission"'
 categories: []
 date: '2021-06-01'
-lastmod: 2021-03-03T20:39:10+01:00
+lastmod: 2021-03-03T22:16:43+01:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:20.600884Z'
+publishDate: '2021-03-03T21:16:43.654921Z'
 publication_types:
 - '2'
 abstract: For testing the effectiveness of air purification devices in regard to the
@@ -62,6 +62,6 @@ abstract: For testing the effectiveness of air purification devices in regard to
   to the experiments without. Distance was shown to be an important factor for risk
   reduction.
 publication: '*Science of The Total Environment*'
-doi: 10.1016/j.scitotenv.2021.144956
 url_pdf: https://www.sciencedirect.com/science/article/pii/S004896972100022X
+doi: 10.1016/j.scitotenv.2021.144956
 ---

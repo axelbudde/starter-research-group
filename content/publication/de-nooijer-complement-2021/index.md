@@ -16,35 +16,10 @@ authors:
 - Erik J M Toonen
 - Leo A B Joosten
 - RCI-COVID-19 study group
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Aged"'
-- '"Aged"'
-- '"80 and over"'
-- '"Disease Progression"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Severity of Illness Index"'
-- '"Respiratory Distress Syndrome"'
-- '"Cytokines"'
-- '"Prospective Studies"'
-- '"Inflammation"'
-- '"Immunity"'
-- '"Innate"'
-- '"ARDS"'
-- '"Coagulation"'
-- '"Complement"'
-- '"Complement Activation"'
-- '"Complement C3c"'
-- '"Longitudinal Studies"'
-- '"Mortality"'
-- '"Netherlands"'
+tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-03-03T20:39:13+01:00
+lastmod: 2021-03-03T22:16:43+01:00
 featured: false
 draft: false
 
@@ -62,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:20.459987Z'
+publishDate: '2021-03-03T21:16:43.530322Z'
 publication_types:
 - '2'
 abstract: Excessive activation of immune responses in coronavirus disease 2019 (COVID-19)
@@ -84,6 +59,6 @@ abstract: Excessive activation of immune responses in coronavirus disease 2019 (
   might have potential as prognostic markers for disease severity and as therapeutic
   targets in COVID-19.
 publication: '*The Journal of Infectious Diseases*'
-doi: 10.1093/infdis/jiaa646
 url_pdf: https://doi.org/10.1093/infdis/jiaa646
+doi: 10.1093/infdis/jiaa646
 ---

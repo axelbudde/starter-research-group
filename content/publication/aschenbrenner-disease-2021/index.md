@@ -155,7 +155,7 @@ tags:
 - '"Transcriptome"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-02-25T13:28:16+01:00
+lastmod: 2021-03-03T22:16:42+01:00
 featured: false
 draft: false
 
@@ -173,7 +173,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:18.873100Z'
+publishDate: '2021-03-03T21:16:42.091851Z'
 publication_types:
 - '2'
 abstract: The SARS-CoV-2 pandemic is currently leading to increasing numbers of COVID-19

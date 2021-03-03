@@ -46,7 +46,7 @@ tags:
 - '"SARS-CoV-2"'
 categories: []
 date: '2020-06-01'
-lastmod: 2021-03-03T20:39:12+01:00
+lastmod: 2021-03-03T22:16:45+01:00
 featured: false
 draft: false
 
@@ -64,7 +64,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:22.614467Z'
+publishDate: '2021-03-03T21:16:45.502940Z'
 publication_types:
 - '2'
 abstract: Proper management of COVID-19 mandates better understanding of disease pathogenesis.
@@ -82,6 +82,6 @@ abstract: Proper management of COVID-19 mandates better understanding of disease
   immune dysregulation in severe COVID-19 is characterized by IL-6-mediated low HLA-DR
   expression and lymphopenia, associated with sustained cytokine production and hyper-inflammation.
 publication: '*Cell Host & Microbe*'
-doi: 10.1016/j.chom.2020.04.009
 url_pdf: https://www.sciencedirect.com/science/article/pii/S1931312820302365
+doi: 10.1016/j.chom.2020.04.009
 ---

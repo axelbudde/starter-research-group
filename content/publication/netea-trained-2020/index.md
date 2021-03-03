@@ -13,30 +13,10 @@ authors:
 - Reinout van Crevel
 - Frank L. van de Veerdonk
 - Marc Bonten
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Humans"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Animals"'
-- '"Virus Replication"'
-- '"Clinical Trials as Topic"'
-- '"BCG Vaccine"'
-- '"Lymphopenia"'
-- '"Lung"'
-- '"Immunity"'
-- '"Innate"'
-- '"Immunomodulation"'
-- '"Middle East Respiratory Syndrome Coronavirus"'
-- '"SARS Virus"'
-- '"Severe Acute Respiratory Syndrome"'
+tags: []
 categories: []
 date: '2020-05-01'
-lastmod: 2021-03-03T20:39:12+01:00
+lastmod: 2021-03-03T22:16:45+01:00
 featured: false
 draft: false
 
@@ -54,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:23.087818Z'
+publishDate: '2021-03-03T21:16:45.882283Z'
 publication_types:
 - '2'
 abstract: SARS-CoV-2 infection is mild in the majority of individuals but progresses
@@ -67,6 +47,6 @@ abstract: SARS-CoV-2 infection is mild in the majority of individuals but progre
   cells. We propose that induction of trained immunity by whole-microorganism vaccines
   may represent an important tool for reducing susceptibility to and severity of SARS-CoV-2.
 publication: '*Cell*'
-doi: 10.1016/j.cell.2020.04.042
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0092867420305079
+doi: 10.1016/j.cell.2020.04.042
 ---

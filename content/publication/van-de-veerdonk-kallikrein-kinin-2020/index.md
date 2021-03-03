@@ -22,7 +22,7 @@ tags:
 - '"SARS"'
 categories: []
 date: '2020-04-01'
-lastmod: 2021-03-03T20:39:12+01:00
+lastmod: 2021-03-03T22:16:46+01:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:23.627281Z'
+publishDate: '2021-03-03T21:16:46.397981Z'
 publication_types:
 - '2'
 abstract: COVID-19 patients can present with pulmonary edema early in disease. We
@@ -56,6 +56,6 @@ abstract: COVID-19 patients can present with pulmonary edema early in disease. W
   syndrome (ARDS). In addition, this pathway might indirectly be responsive to anti-inflammatory
   agents.
 publication: '*eLife*'
-doi: 10.7554/eLife.57555
 url_pdf: https://doi.org/10.7554/eLife.57555
+doi: 10.7554/eLife.57555
 ---

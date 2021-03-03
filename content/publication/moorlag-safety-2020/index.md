@@ -40,7 +40,7 @@ tags:
 - '"trained immunity"'
 categories: []
 date: '2020-08-01'
-lastmod: 2021-03-03T20:39:13+01:00
+lastmod: 2021-03-03T22:16:44+01:00
 featured: false
 draft: false
 
@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:21.785388Z'
+publishDate: '2021-03-03T21:16:44.695601Z'
 publication_types:
 - '2'
 abstract: Bacille Calmette-Guérin (BCG) induces long-term boosting of innate immunity,
@@ -75,6 +75,6 @@ abstract: Bacille Calmette-Guérin (BCG) induces long-term boosting of innate im
   BCG vaccination is safe, and large randomized trials are needed to reveal if BCG
   reduces the incidence and/or severity of SARS-CoV-2 infection.
 publication: '*Cell Reports Medicine*'
-doi: 10.1016/j.xcrm.2020.100073
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2666379120300938
+doi: 10.1016/j.xcrm.2020.100073
 ---

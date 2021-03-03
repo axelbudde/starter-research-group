@@ -31,40 +31,10 @@ authors:
 - Mihai G. Netea
 - Peter Aaby
 - Christine Stabell Benn
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Pandemics"'
-- '"Betacoronavirus"'
-- '"Coronavirus Infections"'
-- '"Pneumonia"'
-- '"Viral"'
-- '"Health Personnel"'
-- '"Vaccination"'
-- '"Time Factors"'
-- '"BCG Vaccine"'
-- '"Randomized Controlled Trials as Topic"'
-- '"Absenteeism"'
-- '"BCG vaccine"'
-- '"Denmark"'
-- '"Health care workers"'
-- '"Heterologous effects of vaccines"'
-- '"Multicenter Studies as Topic"'
-- '"NSEs/Non-specific effects of vaccines"'
-- '"Occupational Health"'
-- '"Pandemic Immune training."'
-- '"Patient Admission"'
-- '"Protocol"'
-- '"Randomised controlled trial"'
-- '"Sick Leave"'
-- '"Single-Blind Method"'
-- '"Treatment Outcome"'
+tags: []
 categories: []
 date: '2020-09-01'
-lastmod: 2021-03-03T20:39:13+01:00
+lastmod: 2021-03-03T22:16:44+01:00
 featured: false
 draft: false
 
@@ -82,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:21.398555Z'
+publishDate: '2021-03-03T21:16:44.436648Z'
 publication_types:
 - '2'
 abstract: 'Objectives: The Bacille Calmette-Guérin (BCG) vaccine against tuberculosis
@@ -92,6 +62,6 @@ abstract: 'Objectives: The Bacille Calmette-Guérin (BCG) vaccine against tuberc
   of COVID-19 and other infectious diseases in health care workers (HCW) and thus
   prevent work absenteeism.'
 publication: '*Trials*'
-doi: 10.1186/s13063-020-04714-3
 url_pdf: https://doi.org/10.1186/s13063-020-04714-3
+doi: 10.1186/s13063-020-04714-3
 ---

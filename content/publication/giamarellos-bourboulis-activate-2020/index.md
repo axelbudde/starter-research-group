@@ -36,7 +36,7 @@ tags:
 - '"vaccination"'
 categories: []
 date: '2020-10-01'
-lastmod: 2021-03-03T20:39:13+01:00
+lastmod: 2021-03-03T22:16:44+01:00
 featured: false
 draft: false
 
@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:21.266671Z'
+publishDate: '2021-03-03T21:16:44.310580Z'
 publication_types:
 - '2'
 abstract: BCG vaccination in children protects against heterologous infections and
@@ -71,6 +71,6 @@ abstract: BCG vaccination in children protects against heterologous infections a
   the elderly against infections. Larger studies are needed to assess protection against
   respiratory infections, including COVID-19 (ClinicalTrials.gov NCT03296423).
 publication: '*Cell*'
-doi: 10.1016/j.cell.2020.08.051
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0092867420311399
+doi: 10.1016/j.cell.2020.08.051
 ---

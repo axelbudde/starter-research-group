@@ -36,39 +36,10 @@ authors:
 - B. Martin Hällberg
 - Nicholas C. Wu
 - Florian I. Schmidt
-tags:
-- '"COVID-19"'
-- '"SARS-CoV-2"'
-- '"Humans"'
-- '"Amino Acid Substitution"'
-- '"Angiotensin-Converting Enzyme 2"'
-- '"Animals"'
-- '"Antibodies"'
-- '"Neutralizing"'
-- '"Antibodies"'
-- '"Viral"'
-- '"Antibody Affinity"'
-- '"Antigens"'
-- '"Viral"'
-- '"Binding Sites"'
-- '"Antibody"'
-- '"Cell Line"'
-- '"Cryoelectron Microscopy"'
-- '"Epitopes"'
-- '"Membrane Fusion"'
-- '"Mutation"'
-- '"Protein Binding"'
-- '"Protein Conformation"'
-- '"Protein Domains"'
-- '"Receptors"'
-- '"Coronavirus"'
-- '"Single-Domain Antibodies"'
-- '"Spike Glycoprotein"'
-- '"Coronavirus"'
-- '"Virus Replication"'
+tags: []
 categories: []
 date: '2021-02-01'
-lastmod: 2021-03-03T20:39:10+01:00
+lastmod: 2021-03-03T22:16:43+01:00
 featured: false
 draft: false
 
@@ -86,7 +57,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:20.037399Z'
+publishDate: '2021-03-03T21:16:43.145559Z'
 publication_types:
 - '2'
 abstract: 'A double punch against SARS-CoV-2 Monoclonal antibodies are an important
@@ -165,6 +136,6 @@ abstract: 'A double punch against SARS-CoV-2 Monoclonal antibodies are an import
   multivalent nanobodies. SARS-CoV-2–neutralizing nanobodies were combined to design
   potent multivalent nanobodies.'
 publication: '*Science*'
-doi: 10.1126/science.abe6230
 url_pdf: https://science.sciencemag.org/content/371/6530/eabe6230
+doi: 10.1126/science.abe6230
 ---

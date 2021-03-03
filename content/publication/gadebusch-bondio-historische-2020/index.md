@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2021-03-03T21:40:23+01:00
+lastmod: 2021-03-03T22:16:45+01:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:22.953752Z'
+publishDate: '2021-03-03T21:16:45.752590Z'
 publication_types:
 - '2'
 abstract: 'Dieser Beitrag ist Teil des Forums COVID-19: Perspektiven in den Geistes-

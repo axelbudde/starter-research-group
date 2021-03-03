@@ -33,7 +33,7 @@ tags:
 - '"Treg"'
 categories: []
 date: '2020-11-01'
-lastmod: 2021-03-03T20:39:10+01:00
+lastmod: 2021-03-03T22:16:44+01:00
 featured: false
 draft: false
 
@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:21.133542Z'
+publishDate: '2021-03-03T21:16:44.181179Z'
 publication_types:
 - '2'
 abstract: Clinical manifestations of COVID-19 affect many organs, including the heart.
@@ -77,6 +77,6 @@ abstract: Clinical manifestations of COVID-19 affect many organs, including the 
   antiviral immunity, such as the CD8/Treg/monocyte ratio used here, supports risk
   assessment by predicting poor prognosis.
 publication: '*Life Sciences*'
-doi: 10.1016/j.lfs.2020.118400
 url_pdf: https://www.sciencedirect.com/science/article/pii/S002432052031153X
+doi: 10.1016/j.lfs.2020.118400
 ---

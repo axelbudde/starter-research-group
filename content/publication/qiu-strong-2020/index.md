@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2020-12-01'
-lastmod: 2021-03-03T20:39:13+01:00
+lastmod: 2021-03-03T22:16:44+01:00
 featured: false
 draft: false
 
@@ -34,11 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:20.862458Z'
+publishDate: '2021-03-03T21:16:43.905447Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Science Bulletin*'
-doi: 10.1016/j.scib.2020.08.012
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2095927320305338
+doi: 10.1016/j.scib.2020.08.012
 ---

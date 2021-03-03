@@ -21,7 +21,7 @@ tags:
 - '"Systemic inflammation"'
 categories: []
 date: '2020-06-01'
-lastmod: 2021-03-03T20:39:11+01:00
+lastmod: 2021-03-03T22:16:45+01:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:22.470013Z'
+publishDate: '2021-03-03T21:16:45.376775Z'
 publication_types:
 - '2'
 abstract: Increasing evidence suggests that infection with Sars-CoV-2 causes neurological
@@ -56,6 +56,6 @@ abstract: Increasing evidence suggests that infection with Sars-CoV-2 causes neu
   infection. A structured prospective evaluation should analyze the likelihood, time
   course, and severity of cognitive impairment following the COVID-19 pandemic.
 publication: "*Alzheimer's Research & Therapy*"
-doi: 10.1186/s13195-020-00640-3
 url_pdf: https://doi.org/10.1186/s13195-020-00640-3
+doi: 10.1186/s13195-020-00640-3
 ---

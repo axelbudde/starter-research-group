@@ -33,7 +33,7 @@ tags:
 - '"Vascular Leakage"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-03-03T20:39:13+01:00
+lastmod: 2021-03-03T22:16:46+01:00
 featured: false
 draft: false
 
@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T20:40:23.998695Z'
+publishDate: '2021-03-03T21:16:46.653579Z'
 publication_types:
 - '2'
 abstract: Reports suggest a role of endothelial dysfunction and loss of endothelial
@@ -69,6 +69,6 @@ abstract: Reports suggest a role of endothelial dysfunction and loss of endothel
   currently available, therapeutic treatment of COVID-19 patients with low molecular
   weight heparins should be explored.
 publication: '*Front. Immunol.*'
-doi: 10.3389/fimmu.2020.575047
 url_pdf: https://www.frontiersin.org/articles/10.3389/fimmu.2020.575047/full
+doi: 10.3389/fimmu.2020.575047
 ---
