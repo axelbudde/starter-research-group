@@ -6,7 +6,7 @@ event_url: https://example.org
 
 location: Registration via Eventbrite for Zoom - event hosted by [Professor Irene Petersen (UCL Institute of Epidemiology & Health)](https://iris.ucl.ac.uk/iris/browse/profile?upi=IPETE57) and chaired by [Anushka Asthana (The Guardian)](https://www.theguardian.com/profile/anushkaasthana).
 
-summary: A symposium to explore the opportunities and challenges of mass testing as an exit strategy for the COVID-19 pandemic.
+summary: A symposium to explore the opportunities and challenges of mass testing as an exit strategy for the COVID-19 pandemic. Test.
 abstract: "Can we test ourselves out of the Covid-19 pandemic?"
 
 # Talk start and end times.
