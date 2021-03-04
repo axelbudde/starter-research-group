@@ -46,8 +46,8 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-profile: false
+
+
 ---
 
 #### A symposium to explore the opportunities and challenges of mass testing as an exit strategy for the COVID-19 pandemic
