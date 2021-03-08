@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T21:16:41.318787Z'
+publishDate: '2021-03-08T09:15:15.083620Z'
 publication_types:
 - '2'
 abstract: The novel coronavirus, SARS-coronavirus (CoV)-2 (SARS-CoV-2), has caused

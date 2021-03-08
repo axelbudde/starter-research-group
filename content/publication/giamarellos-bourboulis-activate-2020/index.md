@@ -27,12 +27,12 @@ authors:
 - Mihai G. Netea
 tags:
 - '"BCG"'
-- '"cytokines"'
 - '"elderly"'
+- '"trained immunity"'
+- '"cytokines"'
 - '"epigenetic modifications"'
 - '"infection incidence"'
 - '"respiratory infections"'
-- '"trained immunity"'
 - '"vaccination"'
 categories: []
 date: '2020-10-01'
@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T21:16:44.310580Z'
+publishDate: '2021-03-08T09:15:11.772744Z'
 publication_types:
 - '2'
 abstract: BCG vaccination in children protects against heterologous infections and

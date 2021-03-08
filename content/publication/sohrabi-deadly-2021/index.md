@@ -11,10 +11,10 @@ authors:
 - Leo A. B. Joosten
 - Mihai G. Netea
 tags:
-- '"BCG"'
 - '"COVID-19"'
-- '"elderly"'
 - '"immune response"'
+- '"BCG"'
+- '"elderly"'
 - '"trained immunity"'
 categories: []
 date: '2021-02-01'
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T21:16:43.011759Z'
+publishDate: '2021-03-08T09:15:10.453314Z'
 publication_types:
 - '2'
 abstract: Age is a key risk factor associated with the severity of symptoms caused

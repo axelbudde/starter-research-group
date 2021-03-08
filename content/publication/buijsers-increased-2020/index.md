@@ -25,10 +25,10 @@ authors:
 - Quirijn de Mast
 - Johan van der Vlag
 tags:
+- '"Inflammation"'
 - '"COVID −19"'
 - '"Glycocalyx damage"'
 - '"Heparanase"'
-- '"Inflammation"'
 - '"LMWH (Low molecular weight heparin)"'
 - '"Vascular Leakage"'
 categories: []
@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T21:16:46.653579Z'
+publishDate: '2021-03-08T09:15:14.074183Z'
 publication_types:
 - '2'
 abstract: Reports suggest a role of endothelial dysfunction and loss of endothelial

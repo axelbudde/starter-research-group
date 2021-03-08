@@ -35,6 +35,7 @@ authors:
 - Antonia Koutsoukou
 tags:
 - '"COVID-19"'
+- '"SARS-CoV-2"'
 - '"dysregulation"'
 - '"ferritin"'
 - '"HLA-DR"'
@@ -43,7 +44,6 @@ tags:
 - '"macrophage activation"'
 - '"monocytes"'
 - '"respiratory failure"'
-- '"SARS-CoV-2"'
 categories: []
 date: '2020-06-01'
 lastmod: 2021-03-03T22:16:45+01:00
@@ -64,7 +64,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T21:16:45.502940Z'
+publishDate: '2021-03-08T09:15:12.935336Z'
 publication_types:
 - '2'
 abstract: Proper management of COVID-19 mandates better understanding of disease pathogenesis.

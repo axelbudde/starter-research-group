@@ -173,9 +173,9 @@ authors:
 - Dagmar Wieczorek
 - John Ziebuhr
 tags:
+- '"COVID-19"'
 - '"acute respiratory distress"'
 - '"blood"'
-- '"COVID-19"'
 - '"disease trajectory"'
 - '"immune response"'
 - '"infectious disease"'
@@ -203,7 +203,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T21:16:44.032274Z'
+publishDate: '2021-03-08T09:15:11.490371Z'
 publication_types:
 - '2'
 abstract: Temporal resolution of cellular features associated with a severe COVID-19

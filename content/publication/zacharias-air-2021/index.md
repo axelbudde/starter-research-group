@@ -15,9 +15,9 @@ authors:
 - Nico T. Mutters
 - Steffen Engelhart
 tags:
+- '"COVID-19"'
 - '"Air purification"'
 - '"Bacteriophages"'
-- '"COVID-19"'
 - '"phiX174"'
 - '"Transmission"'
 categories: []
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-03T21:16:43.654921Z'
+publishDate: '2021-03-08T09:15:11.110359Z'
 publication_types:
 - '2'
 abstract: For testing the effectiveness of air purification devices in regard to the
