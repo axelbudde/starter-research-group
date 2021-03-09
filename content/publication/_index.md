@@ -1,5 +1,5 @@
 ---
-title: "Die Publikationen"
+title: "Publikationen"
 
 # View.
 #   1 = List
