@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-08T09:15:15.957191Z'
+publishDate: '2021-03-09T16:50:05.809410Z'
 publication_types:
 - '2'
 abstract: Covid-19 is the acute illness caused by SARS-CoV-2 with initial clinical

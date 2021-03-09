@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-08T09:15:12.167800Z'
+publishDate: '2021-03-09T16:50:01.446672Z'
 publication_types:
 - '2'
 abstract: Bacille Calmette-Guérin (BCG) induces long-term boosting of innate immunity,

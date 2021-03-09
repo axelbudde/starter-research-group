@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-08T09:15:13.944714Z'
+publishDate: '2021-03-09T16:50:03.489527Z'
 publication_types:
 - '2'
 abstract: COVID-19 is a severe health problem in many countries and has altered day-to-day

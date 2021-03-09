@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-08T09:15:10.067222Z'
+publishDate: '2021-03-09T16:49:59.072749Z'
 publication_types:
 - '2'
 abstract: 'We aimed to describe the influenza vaccination rate and its determinants

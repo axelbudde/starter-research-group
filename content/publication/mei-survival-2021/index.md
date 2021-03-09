@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-08T09:15:15.456507Z'
+publishDate: '2021-03-09T16:50:05.162521Z'
 publication_types:
 - '2'
 abstract: 'Background Elderly patients infected with COVID-19 are reported to have
