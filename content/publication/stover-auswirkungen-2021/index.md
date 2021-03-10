@@ -70,7 +70,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:09.462245Z'
+publishDate: '2021-03-10T15:54:25.734695Z'
 publication_types:
 - '2'
 abstract: Hintergrund Ab Frühjahr 2020 kam es zur weltweiten Verbreitung von SARS-CoV‑2

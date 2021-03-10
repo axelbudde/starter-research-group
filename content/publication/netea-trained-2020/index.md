@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:02.766987Z'
+publishDate: '2021-03-10T15:54:20.381452Z'
 publication_types:
 - '2'
 abstract: SARS-CoV-2 infection is mild in the majority of individuals but progresses

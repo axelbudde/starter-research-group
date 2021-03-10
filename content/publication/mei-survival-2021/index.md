@@ -24,14 +24,14 @@ authors:
 - Xianglin Yuan
 - Jian Li
 tags:
-- '"Clinical stratification"'
 - '"COVID-19"'
+- '"SARS-CoV-2"'
+- '"Mortality"'
+- '"Clinical stratification"'
 - '"elderly patients"'
 - '"Metabolic pathogenesis"'
-- '"Mortality"'
 - '"Pathway Flux"'
 - '"prognostic factors"'
-- '"SARS-CoV-2"'
 - '"Survival factors"'
 categories: []
 date: '2021-01-01'
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:05.162521Z'
+publishDate: '2021-03-10T15:54:22.495089Z'
 publication_types:
 - '2'
 abstract: 'Background Elderly patients infected with COVID-19 are reported to have

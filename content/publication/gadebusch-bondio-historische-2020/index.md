@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:02.642459Z'
+publishDate: '2021-03-10T15:54:20.253712Z'
 publication_types:
 - '2'
 abstract: 'Dieser Beitrag ist Teil des Forums COVID-19: Perspektiven in den Geistes-

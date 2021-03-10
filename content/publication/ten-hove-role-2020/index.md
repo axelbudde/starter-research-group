@@ -19,10 +19,10 @@ authors:
 - Misha D. Luyer
 - Wouter J. de Jonge
 tags:
-- '"ACE2"'
 - '"COVID-19"'
-- '"nAChR"'
 - '"SARS-CoV-2"'
+- '"ACE2"'
+- '"nAChR"'
 - '"TMPRSS2"'
 - '"Vagus nerve stimulation"'
 categories: []
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:07.480053Z'
+publishDate: '2021-03-10T15:54:24.228934Z'
 publication_types:
 - '2'
 abstract: Recent evidence demonstrated that severe acute respiratory syndrome coronavirus

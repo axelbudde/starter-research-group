@@ -11,11 +11,11 @@ authors:
 - Aleksandra Kicman
 - Eberhard Schlicker
 tags:
+- '"COVID-19"'
+- '"SARS-CoV-2"'
 - '"ACE2"'
 - '"cannabidiol"'
-- '"COVID-19"'
 - '"respiratory disease"'
-- '"SARS-CoV-2"'
 categories: []
 date: '2021-01-01'
 lastmod: 2021-03-08T10:12:43+01:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:05.004979Z'
+publishDate: '2021-03-10T15:54:22.361798Z'
 publication_types:
 - '2'
 abstract: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection may

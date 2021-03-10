@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:08.013259Z'
+publishDate: '2021-03-10T15:54:24.632068Z'
 publication_types:
 - '2'
 abstract: 'Purpose The coronavirus disease 2019 (COVID-19) pandemic is disrupting

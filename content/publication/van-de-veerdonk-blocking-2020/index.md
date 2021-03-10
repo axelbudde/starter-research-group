@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:01.835094Z'
+publishDate: '2021-03-10T15:54:19.600947Z'
 publication_types:
 - '2'
 abstract: COVID-19 is an emerging disease that can manifest itself as asymptomatic

@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:09.052714Z'
+publishDate: '2021-03-10T15:54:25.456975Z'
 publication_types:
 - '2'
 abstract: Hydroxychloroquine is being investigated for a potential prophylactic effect

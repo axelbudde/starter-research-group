@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-09T16:50:04.859006Z'
+publishDate: '2021-03-10T15:54:22.232653Z'
 publication_types:
-- '3'
+- '2'
 abstract: textlessh3textgreaterAbstracttextless/h3textgreater textlessptextgreaterWe
   describe a physics-based learning model for predicting the immunogenicity of Cytotoxic
   T Lymphocyte (CTL) epitopes derived from diverse pathogens, given a Human Leukocyte
