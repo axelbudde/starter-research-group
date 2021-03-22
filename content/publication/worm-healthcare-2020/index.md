@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T11:30:16.491729Z'
+publishDate: '2021-03-22T12:02:19.936312Z'
 publication_types:
 - '2'
 abstract: 'The population prevalence of insect venom allergy ranges between 3–5%,

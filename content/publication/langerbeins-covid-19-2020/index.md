@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T11:30:19.747288Z'
+publishDate: '2021-03-22T12:02:22.840772Z'
 publication_types:
 - '2'
 abstract: The number of people suffering from the new coronavirus SARS‐CoV‐2 continues

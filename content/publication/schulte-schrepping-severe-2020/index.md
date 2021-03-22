@@ -97,7 +97,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T11:30:20.906170Z'
+publishDate: '2021-03-22T12:02:23.879446Z'
 publication_types:
 - '2'
 abstract: Coronavirus disease 2019 (COVID-19) is a mild to moderate respiratory tract

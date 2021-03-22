@@ -65,7 +65,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T11:30:10.209917Z'
+publishDate: '2021-03-22T12:02:14.148657Z'
 publication_types:
 - '2'
 abstract: The clinical spectrum of COVID-19 varies and the differences in host response

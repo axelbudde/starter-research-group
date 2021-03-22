@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T11:30:16.208920Z'
+publishDate: '2021-03-22T12:02:19.678578Z'
 publication_types:
 - '2'
 abstract: Recent evidence demonstrated that severe acute respiratory syndrome coronavirus

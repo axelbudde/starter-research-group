@@ -52,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T11:30:11.375487Z'
+publishDate: '2021-03-22T12:02:15.218577Z'
 publication_types:
 - '2'
 abstract: 'Objectives: The Bacille Calmette-Guérin (BCG) vaccine against tuberculosis
