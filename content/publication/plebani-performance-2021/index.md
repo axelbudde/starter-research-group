@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-10T15:54:24.083816Z'
+publishDate: '2021-03-22T11:30:16.059014Z'
 publication_types:
 - '2'
 abstract: This study assessed the diagnostic performance of the new COVID19SEROSpeed

@@ -62,7 +62,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-10T15:54:17.734636Z'
+publishDate: '2021-03-22T11:30:10.073604Z'
 publication_types:
 - '2'
 abstract: Knowledge regarding patients’ clinical condition at severe acute respiratory

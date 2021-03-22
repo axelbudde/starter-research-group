@@ -33,23 +33,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-10T15:54:22.232653Z'
+publishDate: '2021-03-22T11:30:21.661659Z'
 publication_types:
-- '3'
-abstract: textlessh3textgreaterAbstracttextless/h3textgreater textlessptextgreaterWe
-  describe a physics-based learning model for predicting the immunogenicity of Cytotoxic
-  T Lymphocyte (CTL) epitopes derived from diverse pathogens, given a Human Leukocyte
-  Antigen (HLA) genotype. The model was trained and tested on experimental data on
-  the relative immunodominance of CTL epitopes in Human Immunodeficiency Virus infection.
-  The method is more accurate than publicly available models. Our model predicts that
-  only a fraction of SARS-CoV-2 epitopes that have been predicted to bind to HLA molecules
-  is immunogenic. The immunogenic CTL epitopes across all SARS-CoV-2 proteins are
-  predicted to provide broad population coverage, but the immunogenic epitopes in
-  the SARS-CoV-2 spike protein alone are unlikely to do so. Our model predicts that
-  several immunogenic SARS-CoV-2 CTL epitopes are identical to those contained in
-  low-pathogenicity coronaviruses circulating in the population. Thus, we suggest
-  that some level of CTL immunity against COVID-19 may be present in some individuals
-  prior to SARS-CoV-2 infection.textless/ptextgreater
+- '2'
+abstract: We describe a physics-based learning model for predicting the immunogenicity
+  of Cytotoxic T Lymphocyte (CTL) epitopes derived from diverse pathogens, given a
+  Human Leukocyte Antigen (HLA) genotype. The model was trained and tested on experimental
+  data on the relative immunodominance of CTL epitopes in Human Immunodeficiency Virus
+  infection. The method is more accurate than publicly available models. Our model
+  predicts that only a fraction of SARS-CoV-2 epitopes that have been predicted to
+  bind to HLA molecules is immunogenic. The immunogenic CTL epitopes across all SARS-CoV-2
+  proteins are predicted to provide broad population coverage, but the immunogenic
+  epitopes in the SARS-CoV-2 spike protein alone are unlikely to do so. Our model
+  predicts that several immunogenic SARS-CoV-2 CTL epitopes are identical to those
+  contained in low-pathogenicity coronaviruses circulating in the population. Thus,
+  we suggest that some level of CTL immunity against COVID-19 may be present in some
+  individuals prior to SARS-CoV-2 infection.
 publication: '*bioRxiv*'
 url_pdf: https://www.biorxiv.org/content/10.1101/2020.05.14.095885v2
 doi: 10.1101/2020.05.14.095885

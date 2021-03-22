@@ -13,6 +13,7 @@ authors:
 - Peter Kubatka
 - Olga Golubnitschaja
 tags:
+- '"COVID-19"'
 - '"and personalized medicine (PPPM/3PM)"'
 - '"antioxidant mechanisms"'
 - '"apoptosis"'
@@ -20,7 +21,6 @@ tags:
 - '"biomarker panels"'
 - '"cancer"'
 - '"chronic inflammation"'
-- '"COVID-19"'
 - '"diagnostic tools"'
 - '"dietary habits"'
 - '"disease predisposition"'
@@ -67,7 +67,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-16T18:25:35.282598Z'
+publishDate: '2021-03-22T11:30:21.956615Z'
 publication_types:
 - '2'
 abstract: The mitochondrial respiratory chain is the main site of reactive oxygen

@@ -76,73 +76,6 @@ authors:
 - Birgit Sawitzki
 - Antoine-Emmanuel Saliba
 - Leif Erik Sander
-- Angel Angelov
-- Robert Bals
-- Alexander Bartholomäus
-- Anke Becker
-- Daniela Bezdan
-- Ezio Bonifacio
-- Peer Bork
-- Thomas Clavel
-- Maria Colome-Tatche
-- Andreas Diefenbach
-- Alexander Dilthey
-- Nicole Fischer
-- Konrad Förstner
-- Julia-Stefanie Frick
-- Julien Gagneur
-- Alexander Goesmann
-- Torsten Hain
-- Michael Hummel
-- Stefan Janssen
-- Jörn Kalinowski
-- René Kallies
-- Birte Kehr
-- Andreas Keller
-- Sarah Kim-Hellmuth
-- Christoph Klein
-- Oliver Kohlbacher
-- Jan O. Korbel
-- Ingo Kurth
-- Markus Landthaler
-- Yang Li
-- Kerstin Ludwig
-- Oliwia Makarewicz
-- Manja Marz
-- Alice McHardy
-- Christian Mertes
-- Markus Nöthen
-- Peter Nürnberg
-- Uwe Ohler
-- Stephan Ossowski
-- Jörg Overmann
-- Silke Peter
-- Klaus Pfeffer
-- Anna R. Poetsch
-- Alfred Pühler
-- Nikolaus Rajewsky
-- Markus Ralser
-- Olaf Rieß
-- Stephan Ripke
-- Ulisses Nunes da Rocha
-- Philip Rosenstiel
-- Antoine-Emmanuel Saliba
-- Leif Erik Sander
-- Birgit Sawitzki
-- Philipp Schiffer
-- Eva-Christina Schulte
-- Joachim L. Schultze
-- Alexander Sczyrba
-- Oliver Stegle
-- Jens Stoye
-- Fabian Theis
-- Janne Vehreschild
-- Jörg Vogel
-- Max von Kleist
-- Andreas Walker
-- Jörn Walter
-- Dagmar Wieczorek
-- John Ziebuhr
 tags: []
 categories: []
 date: '2020-09-01'
@@ -164,11 +97,30 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-08T09:15:09.807037Z'
+publishDate: '2021-03-22T11:30:20.906170Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Coronavirus disease 2019 (COVID-19) is a mild to moderate respiratory tract
+  infection, however, a subset of patients progress to severe disease and respiratory
+  failure. The mechanism of protective immunity in mild forms and the pathogenesis
+  of severe COVID-19 associated with increased neutrophil counts and dysregulated
+  immune responses remain unclear. In a dual-center, two-cohort study, we combined
+  single-cell RNA-sequencing and single-cell proteomics of whole-blood and peripheral-blood
+  mononuclear cells to determine changes in immune cell composition and activation
+  in mild versus severe COVID-19 (242 samples from 109 individuals) over time. HLA-DRhiCD11chi
+  inflammatory monocytes with an interferon-stimulated gene signature were elevated
+  in mild COVID-19. Severe COVID-19 was marked by occurrence of neutrophil precursors,
+  as evidence of emergency myelopoiesis, dysfunctional mature neutrophils, and HLA-DRlo
+  monocytes. Our study provides detailed insights into the systemic immune response
+  to SARS-CoV-2 infection and reveals profound alterations in the myeloid cell compartment
+  associated with severe COVID-19.,    • SARS-CoV-2 infection induces profound alterations
+  of the myeloid compartment   • Mild COVID-19 is marked by inflammatory HLA-DRhiCD11chi
+  CD14+ monocytes   • Dysfunctional HLA-DRloCD163hi and HLA-DRloS100Ahi CD14+ monocytes
+  in severe COVID-19   • Emergency myelopoiesis with immature and dysfunctional neutrophils
+  in severe COVID-19   , Analysis of patients with mild and severe COVID-19 reveals
+  the presence of dysfunctional neutrophils in the latter that is linked to emergency
+  myelopoiesis.
 publication: '*Cell*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0092867420309922
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7405822/
 doi: 10.1016/j.cell.2020.08.001
 ---

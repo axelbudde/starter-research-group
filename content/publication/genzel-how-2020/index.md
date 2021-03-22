@@ -108,7 +108,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-10T15:54:19.072633Z'
+publishDate: '2021-03-22T11:30:11.511404Z'
 publication_types:
 - '2'
 abstract: Recently, a petition was offered to the European Commission calling for

@@ -33,6 +33,10 @@ authors:
 tags:
 - '"COVID-19"'
 - '"SARS-CoV-2"'
+- '"Laboratory"'
+- '"Minipools"'
+- '"RT-PCR"'
+- '"Surveillance"'
 - '"BCG"'
 - '"trained immunity"'
 - '"Bacille Calmette-Guérin"'
@@ -58,7 +62,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-10T15:54:19.213439Z'
+publishDate: '2021-03-22T11:30:11.657717Z'
 publication_types:
 - '2'
 abstract: Bacille Calmette-Guérin (BCG) induces long-term boosting of innate immunity,

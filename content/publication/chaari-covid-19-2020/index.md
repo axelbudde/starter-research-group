@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-16T18:25:32.808228Z'
+publishDate: '2021-03-22T11:30:18.880908Z'
 publication_types:
 - '2'
 abstract: Covid-19 is neither the first nor the last viral epidemic which societies

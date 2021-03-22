@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-10T15:54:21.438753Z'
+publishDate: '2021-03-22T11:30:13.772525Z'
 publication_types:
 - '2'
 abstract: The urgent need for an effective SARS-CoV-2 vaccine has forced development

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-16T18:25:33.063633Z'
+publishDate: '2021-03-22T11:30:19.175593Z'
 publication_types:
 - '2'
 abstract: Background SARS-CoV-2 test kits are in critical shortage in many countries.

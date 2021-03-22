@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-10T15:54:18.794007Z'
+publishDate: '2021-03-22T11:30:11.226159Z'
 publication_types:
 - '2'
 abstract: BCG vaccination in children protects against heterologous infections and
