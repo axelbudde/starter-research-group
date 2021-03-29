@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T12:02:27.841232Z'
+publishDate: '2021-03-29T11:55:35.223445Z'
 publication_types:
 - '2'
 abstract: Die COVID-19 Pandemie stellt eine beträchtliche Herausforderung für die

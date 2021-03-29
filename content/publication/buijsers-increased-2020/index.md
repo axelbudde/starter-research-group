@@ -32,7 +32,7 @@ tags:
 - '"LMWH (Low molecular weight heparin)"'
 - '"Vascular Leakage"'
 categories: []
-date: '2020-01-01'
+date: '2020-10-01'
 lastmod: 2021-03-03T22:16:46+01:00
 featured: false
 draft: false
@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-08T09:15:14.074183Z'
+publishDate: '2021-03-29T11:55:37.465692Z'
 publication_types:
 - '2'
 abstract: Reports suggest a role of endothelial dysfunction and loss of endothelial
@@ -60,15 +60,15 @@ abstract: Reports suggest a role of endothelial dysfunction and loss of endothel
   weight heparins (LMWH) serve as an inhibitor of heparanase. We hypothesize that
   heparanase contributes to the pathogenesis of COVID-19, and that heparanase may
   be inhibited by LMWH. To test this hypothesis, heparanase activity and heparan sulfate
-  levels were measured in plasma of healthy controls (n=10) and COVID-19 patients
-  (n=48). Plasma heparanase activity and heparan sulfate levels were significantly
+  levels were measured in plasma of healthy controls (n = 10) and COVID-19 patients
+  (n = 48). Plasma heparanase activity and heparan sulfate levels were significantly
   elevated in COVID-19 patients. Heparanase activity was associated with disease severity
-  including the need for intensive care, lactate dehydrogenase levels and creatinine
+  including the need for intensive care, lactate dehydrogenase levels, and creatinine
   levels. Use of prophylactic LMWH in non-ICU patients was associated with a reduced
   heparanase activity. Since there is no other clinically applied heparanase inhibitor
   currently available, therapeutic treatment of COVID-19 patients with low molecular
   weight heparins should be explored.
-publication: '*Front. Immunol.*'
-url_pdf: https://www.frontiersin.org/articles/10.3389/fimmu.2020.575047/full
+publication: '*Front Immunol*'
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573491/
 doi: 10.3389/fimmu.2020.575047
 ---

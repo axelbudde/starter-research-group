@@ -46,25 +46,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-10T15:54:21.182503Z'
+publishDate: '2021-03-29T11:55:40.168547Z'
 publication_types:
 - '2'
-abstract: 'Background A novel coronavirus, severe acute respiratory syndrome coronavirus
-  2 (SARS-CoV-2), emerged in China in late 2019 and subsequently caused a pandemic.
-  Surveillance is important to better appreciate this evolving pandemic and to longitudinally
-  monitor the effectiveness of public health measures. Objectives We aimed to provide
-  a rapid, easy to establish and costeffective laboratory-based surveillance tool
-  for SARS-CoV-2. Study design: We used minipools of RNA prepared from nucleic acid
-  extractions of routine respiratory samples. We technically validated the assay and
-  distributed the protocol within an informal network of five German university laboratories.
-  Results We tested a total of 70 minipools resembling 700 samples shortly before
-  the upsurge of cases in Germany from 17.02.2020 to 10.03.2020. One minipool reacted
-  positive and after resolution one individual sample tested SARS-CoV-2 positive.
-  This sample was from a hospitalized patient not suspected of having contracted SARS-CoV-2.
-  Conclusions Our approach of a laboratory-based surveillance for SARSCoV-2 using
-  minipools proved its concept is easily adaptable and resource-saving. It might assist
-  not only public health laboratories in SARS-CoV-2 surveillance.'
-publication: '*Journal of Clinical Virology*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1386653220301232
+abstract: '• A laboratory-based surveillance tool for SARS-CoV-2 was established.   •
+  It consists of minipool testing of nucleic acid preparations.   • Limit of detection
+  was 48 copies per reaction (95 % confidence interval: 33–184).   • A protocol was
+  distributed among five German university hospitals.   • The approach proved its
+  principle and one COVID-19 case was detected in 70 minipools.'
+publication: '*J Clin Virol*'
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175872/
 doi: 10.1016/j.jcv.2020.104381
 ---

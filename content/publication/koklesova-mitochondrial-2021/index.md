@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T12:02:28.250674Z'
+publishDate: '2021-03-29T11:55:35.621013Z'
 publication_types:
 - '2'
 abstract: Mitochondrial injury plays a key role in the aetiopathology of multifactorial

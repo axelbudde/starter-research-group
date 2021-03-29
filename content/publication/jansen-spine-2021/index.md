@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T12:02:27.976820Z'
+publishDate: '2021-03-29T11:55:35.351485Z'
 publication_types:
 - '2'
 abstract: Introduction During the current COVID-19 pandemic video consultations are

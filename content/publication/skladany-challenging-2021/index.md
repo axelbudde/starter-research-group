@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T12:02:20.729377Z'
+publishDate: '2021-03-29T11:55:28.180459Z'
 publication_types:
 - '2'
 abstract: Chronic liver disease management is a comprehensive approach requiring multi-professional

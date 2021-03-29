@@ -17,8 +17,8 @@ authors:
 - Andrea Borho
 - Yesim Erim
 tags:
-- '"Anxiety"'
 - '"COVID-19"'
+- '"Anxiety"'
 - '"Depression"'
 - '"Health care"'
 - '"Mental health"'
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T12:02:28.384663Z'
+publishDate: '2021-03-29T11:55:35.746978Z'
 publication_types:
 - '2'
 abstract: 'Objective The aim of this cross-sectional web-based study was to examine

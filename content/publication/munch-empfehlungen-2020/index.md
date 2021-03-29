@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T12:02:18.251144Z'
+publishDate: '2021-03-29T11:55:25.689260Z'
 publication_types:
 - '2'
 abstract: Die mit der Corona-Pandemie einhergehenden Einschränkungen und Verbote sorgen

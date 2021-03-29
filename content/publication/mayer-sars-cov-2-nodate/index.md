@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T12:02:24.944011Z'
+publishDate: '2021-03-29T11:55:32.350180Z'
 publication_types:
 - '2'
 abstract: The receptor binding domain (RBD) of the spike glycoprotein of the coronavirus
