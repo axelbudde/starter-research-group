@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-29T11:55:21.087741Z'
+publishDate: '2021-04-13T15:51:00.926955Z'
 publication_types:
 - '2'
 abstract: Age is a key risk factor associated with the severity of symptoms caused

@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-29T11:55:23.799122Z'
+publishDate: '2021-04-13T15:51:03.515521Z'
 publication_types:
 - '2'
 abstract: Bacillus Calmette–Guérin (BCG) vaccination has been reported to decrease

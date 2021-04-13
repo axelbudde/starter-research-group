@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-29T11:55:39.099798Z'
+publishDate: '2021-04-13T15:51:17.941722Z'
 publication_types:
 - '2'
 abstract: The unprecedented global scale of COVID‐19 globally has triggered a race

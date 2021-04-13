@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-29T11:55:24.595903Z'
+publishDate: '2021-04-13T15:51:04.265445Z'
 publication_types:
 - '2'
 abstract: COVID-19 patients can present with pulmonary edema early in disease. We

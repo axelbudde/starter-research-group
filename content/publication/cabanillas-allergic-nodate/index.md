@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-29T11:55:26.885394Z'
+publishDate: '2021-04-13T08:43:04.110965Z'
 publication_types:
 - '2'
 abstract: The COVID-19 vaccine developed by Pfizer and BioNTech was approved by the

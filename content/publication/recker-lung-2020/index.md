@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Lung Sonography in Obstetrics during COVID-19 Lungensonografie in der Geburtshilfe
-  bei COVID-19
+title: Lung Sonography in Obstetrics during COVID-19
 subtitle: ''
 summary: ''
 authors:
@@ -11,9 +10,12 @@ authors:
 - Brigitte Strizek
 - Ulrich Gembruch
 - Armin Seibel
-tags: []
+tags:
+- '"Key words obstetrics"'
+- '"lung ultrasound scan"'
+- '"training"'
 categories: []
-date: -01-01
+date: '2020-10-01'
 lastmod: 2021-03-10T16:54:25+01:00
 featured: false
 draft: false
@@ -32,10 +34,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-10T15:54:25.879981Z'
+publishDate: '2021-04-13T15:51:21.184913Z'
 publication_types:
 - '2'
-abstract: In the current coronavirus SARS‑CoV‑2 pandemic, certain patients are becoming
+abstract: In the current coronavirus SARS-CoV-2 pandemic, certain patients are becoming
   seriously ill. Lung pathologies are common, and some patients even go on to develop
   acute respiratory distress syndrome (ARDS), which requires intubation and artificial
   respiration of the critically ill patient. Imaging of the lung is absolutely necessary
@@ -50,5 +52,7 @@ abstract: In the current coronavirus SARS‑CoV‑2 pandemic, certain patients a
   then, depending on the symptoms and the morphological extent of the ultrasound findings,
   it may be necessary to consider admitting the patient to hospital for close fetal
   and maternal monitoring.
-publication: '*Geburtsh Frauenheilk*'
+publication: '*Geburtshilfe Frauenheilkd*'
+url_pdf: http://www.thieme-connect.de/DOI/DOI?10.1055/a-1228-4242
+doi: 10.1055/a-1228-4242
 ---

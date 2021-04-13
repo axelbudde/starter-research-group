@@ -52,7 +52,7 @@ tags:
 - '"Covid-19 vaccine"'
 - '"practical management"'
 categories: []
-date: -01-01
+date: '2021-01-01'
 lastmod: 2021-03-29T13:55:40+02:00
 featured: false
 draft: false
@@ -71,7 +71,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-29T11:55:40.816562Z'
+publishDate: '2021-04-13T15:51:19.624858Z'
 publication_types:
 - '2'
 abstract: Since the introduction of active vaccination against SARS-CoV-2 infection,

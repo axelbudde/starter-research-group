@@ -14,7 +14,7 @@ authors:
 - Cezmi A. Akdis
 tags: []
 categories: []
-date: -01-01
+date: '2021-01-01'
 lastmod: 2021-03-16T19:25:35+01:00
 featured: false
 draft: false
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-16T18:25:35.158779Z'
+publishDate: '2021-04-13T15:51:11.190679Z'
 publication_types:
 - '2'
 abstract: Following the emergency use authorization of the mRNA-1273 vaccine on the

@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-29T11:55:22.299187Z'
+publishDate: '2021-04-13T15:51:02.104738Z'
 publication_types:
 - '2'
 abstract: Clinical manifestations of COVID-19 affect many organs, including the heart.

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-29T11:55:37.876223Z'
+publishDate: '2021-04-13T15:51:16.886622Z'
 publication_types:
 - '2'
 abstract: In 2019, the EPMA celebrated its 10th anniversary at the 5th World Congress
