@@ -52,7 +52,7 @@ image:
 projects: []
 publishDate: '2021-05-26T09:24:46.334565Z'
 publication_types:
-- '2'
+- '3'
 abstract: textlessptextgreaterThe mRNA-based BNT162b2 vaccine from Pfizer/BioNTech
   was the first registered COVID-19 vaccine and has been shown to be up to 95% effective
   in preventing SARS-CoV-2 infections. Little is known about the broad effects of
