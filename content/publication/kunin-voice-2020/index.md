@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:12.353221Z'
+publishDate: '2021-05-26T09:24:35.157314Z'
 publication_types:
 - '2'
 abstract: Verbal communication is one of the most sophisticated human motor skills

@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:10.408514Z'
+publishDate: '2021-05-26T09:24:33.121267Z'
 publication_types:
 - '2'
 abstract: 'Coronaviruses (CoVs) infect both humans and animals. In humans, CoVs can

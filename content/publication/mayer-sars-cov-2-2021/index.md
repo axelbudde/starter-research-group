@@ -14,8 +14,8 @@ authors:
 - Volkmar Fieberg
 - Michael Famulok
 tags:
-- '"aptamer"'
 - '"SARS-CoV"'
+- '"aptamer"'
 - '"SELEX"'
 - '"viral infection"'
 categories: []
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:11.467512Z'
+publishDate: '2021-05-26T09:24:34.221733Z'
 publication_types:
 - '2'
 abstract: The receptor binding domain (RBD) of the spike glycoprotein of the coronavirus

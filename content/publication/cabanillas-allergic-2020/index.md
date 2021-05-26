@@ -10,10 +10,10 @@ authors:
 - Cezmi Akdis
 - Natalija Novak
 tags:
-- '"BNT162b2"'
 - '"COVID-19"'
-- '"Polyethylene glycol"'
 - '"SARS-CoV-2"'
+- '"BNT162b2"'
+- '"Polyethylene glycol"'
 - '"Vaccine"'
 categories: []
 date: '2020-01-01'
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:21.313823Z'
+publishDate: '2021-05-26T09:24:44.316962Z'
 publication_types:
 - '2'
 abstract: The COVID-19 vaccine developed by Pfizer and BioNTech was approved by the

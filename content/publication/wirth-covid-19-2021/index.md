@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:06.568373Z'
+publishDate: '2021-05-26T09:24:29.201849Z'
 publication_types:
 - '2'
 abstract: Schwerwiegend verlaufende COVID-19-Erkrankungen betreffen vorwiegend die

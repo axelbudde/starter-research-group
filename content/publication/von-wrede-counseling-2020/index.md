@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:17.008218Z'
+publishDate: '2021-05-26T09:24:40.025245Z'
 publication_types:
 - '2'
 abstract: • A structured audit on telemedical counseling was performed in 239 patients

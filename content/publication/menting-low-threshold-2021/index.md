@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:04.811963Z'
+publishDate: '2021-05-26T09:24:27.436079Z'
 publication_types:
 - '2'
 abstract: • Incidence of SARS-CoV-2 infections are higher in employees of a hospital

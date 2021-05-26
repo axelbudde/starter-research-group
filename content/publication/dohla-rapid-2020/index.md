@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:04.940953Z'
+publishDate: '2021-05-26T09:24:27.571853Z'
 publication_types:
 - '2'
 abstract: 'Objective With the current SARS-CoV2 outbreak, countless tests need to

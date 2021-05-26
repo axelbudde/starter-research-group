@@ -12,11 +12,11 @@ authors:
 - Jinming Han
 - Fan Chen
 tags:
-- '"ACE2"'
 - '"COVID-19"'
+- '"SARS-CoV-2"'
+- '"ACE2"'
 - '"cytokine storm"'
 - '"immuno-modulators"'
-- '"SARS-CoV-2"'
 - '"sphingosine 1-phosphate"'
 categories: []
 date: '2021-01-01'
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:21.442017Z'
+publishDate: '2021-05-26T09:24:44.450114Z'
 publication_types:
 - '2'
 abstract: Global spread of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)

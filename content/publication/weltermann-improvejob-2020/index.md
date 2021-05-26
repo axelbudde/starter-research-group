@@ -87,7 +87,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:11.599135Z'
+publishDate: '2021-05-26T09:24:34.352291Z'
 publication_types:
 - '2'
 abstract: Perceived high chronic stress is twice as prevalent among German general

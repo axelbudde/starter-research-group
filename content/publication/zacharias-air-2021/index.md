@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:01.579301Z'
+publishDate: '2021-05-26T09:24:24.032237Z'
 publication_types:
 - '2'
 abstract: For testing the effectiveness of air purification devices in regard to the

@@ -57,7 +57,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:01.051994Z'
+publishDate: '2021-05-26T09:24:23.471420Z'
 publication_types:
 - '2'
 abstract: 'A double punch against SARS-CoV-2 Monoclonal antibodies are an important

@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:16.504382Z'
+publishDate: '2021-05-26T09:24:39.479694Z'
 publication_types:
 - '2'
 abstract: Reports suggest a role of endothelial dysfunction and loss of endothelial

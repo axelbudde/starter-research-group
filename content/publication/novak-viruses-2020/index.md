@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:09.637813Z'
+publishDate: '2021-05-26T09:24:32.315287Z'
 publication_types:
 - '2'
 abstract: Viral infections and atopic diseases are closely related and contribute

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:51:09.121610Z'
+publishDate: '2021-05-26T09:24:31.772881Z'
 publication_types:
 - '2'
 abstract: Covid-19 is a new coronavirus disease first described in December 2019.
