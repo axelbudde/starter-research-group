@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: contact.jpg
+    image: jon-tyson-XzUMBNmQro0-unsplash.jpg
     image_darken: 0
     image_parallax: false
     image_position: center

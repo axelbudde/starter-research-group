@@ -7,10 +7,8 @@ widget_id: num
 headless: true
 weight: 10
 title: Task Force COVID-19
-subtitle: ""
+active: true
 design:
   columns: "1"
-hero_media: welcome.jpg
+hero_media: cdc-k0KRNtqcjfw-unsplash.jpg
 ---
-
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
