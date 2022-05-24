@@ -6,3 +6,4 @@
 public/
 assets/jsconfig.json
 static/.DS_Store
+.Rproj.user
