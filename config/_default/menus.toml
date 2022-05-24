@@ -8,10 +8,7 @@
 #  url = "/"
 #  weight = 10
 
-[[main]]
-  name = "Presseschau"
-  url = "post"
-  weight = 20
+
   
 [[main]]
   name = "NUM"
